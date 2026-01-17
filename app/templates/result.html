@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommendation Result</title>
+</head>
+<body>
+    <h2>Top Career Recommendations</h2>
+
+    <ol>
+        {% for career, score in results %}
+        <li>
+            <strong>{{ career }}</strong> — Confidence: {{ "%.2f"|format(score) }}
+        </li>
+        {% endfor %}
+    </ol>
+
+    <h3>Why these careers?</h3>
+    <ul>
+        {% for reason in explanations %}
+        <li>{{ reason }}</li>
+        {% endfor %}
+    </ul>
+
+    <a href="/">Try Again</a>
+</body>
+</html>

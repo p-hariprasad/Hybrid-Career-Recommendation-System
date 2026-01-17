@@ -1,0 +1,3001 @@
+math_score,science_score,programming_skill,communication_skill,creativity,interest_area,experience_years,career
+82,76,Medium,High,Low,Technology,0,Junior Software Engineer
+82,80,Medium,Medium,High,Technology,1,Frontend Developer
+74,84,Medium,Medium,Medium,Technology,1,Web Developer
+90,71,High,Medium,Low,Technology,0,ML Engineer (Junior)
+90,83,Medium,Medium,Medium,Technology,1,Web Developer
+73,88,Medium,Medium,Low,Technology,2,QA Engineer
+73,86,High,High,Low,Technology,0,Software Engineer
+74,81,High,Medium,Low,Technology,1,ML Engineer (Junior)
+83,74,High,High,Low,Technology,1,Cyber Security Analyst
+75,94,Medium,Medium,High,Technology,2,Frontend Developer
+92,71,Low,High,High,Technology,2,UI/UX Designer
+88,77,High,High,Low,Technology,0,ML Engineer (Junior)
+73,78,High,High,Low,Technology,0,Data Scientist (Junior)
+84,83,Medium,High,Low,Technology,1,QA Engineer
+87,77,High,High,Low,Technology,1,Backend Developer
+75,89,Medium,High,Low,Technology,0,QA Engineer
+71,81,High,Medium,Low,Technology,4,Data Scientist (Junior)
+84,74,Medium,Medium,Medium,Technology,2,Web Developer
+83,71,Medium,High,Low,Technology,0,Data Analyst
+85,83,Medium,Medium,Medium,Technology,3,Web Developer
+92,76,High,Medium,Low,Technology,0,Data Scientist (Junior)
+95,78,High,High,Low,Technology,0,Backend Developer
+72,71,High,High,Low,Technology,2,ML Engineer (Junior)
+77,90,Low,Medium,High,Technology,0,UI/UX Designer
+75,92,High,High,Low,Technology,1,Data Scientist (Junior)
+85,76,High,Medium,Low,Technology,0,Backend Developer
+79,82,High,Medium,Low,Technology,1,Data Scientist (Junior)
+75,73,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+87,94,High,Medium,Low,Technology,0,ML Engineer (Junior)
+86,70,High,Medium,Low,Technology,0,Cyber Security Analyst
+80,80,Medium,Medium,Low,Technology,2,Junior Software Engineer
+78,90,Medium,High,Low,Technology,0,Data Analyst
+73,94,Medium,High,High,Technology,2,Frontend Developer
+95,83,High,Medium,Low,Technology,5,Data Scientist (Junior)
+72,73,High,High,Low,Technology,1,Cloud Engineer (Junior)
+82,83,Medium,Medium,Low,Technology,0,QA Engineer
+72,91,High,Medium,Low,Technology,0,Software Engineer
+84,71,Medium,Medium,Low,Technology,2,Junior Software Engineer
+90,82,Low,Medium,High,Technology,0,UI/UX Designer
+82,84,High,High,Low,Technology,1,Backend Developer
+71,88,Medium,High,Low,Technology,3,Junior Software Engineer
+79,94,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+73,73,Medium,High,Low,Technology,1,Data Analyst
+75,89,Medium,Medium,Low,Technology,1,Data Analyst
+78,89,Medium,Medium,Medium,Technology,0,Web Developer
+71,93,Low,Medium,High,Technology,0,UI/UX Designer
+94,94,High,High,Low,Technology,1,ML Engineer (Junior)
+73,79,High,Medium,Low,Technology,5,Cloud Engineer (Junior)
+75,70,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+95,76,High,Medium,Low,Technology,2,Data Scientist (Junior)
+70,79,Medium,High,Medium,Technology,0,Web Developer
+77,72,Medium,High,Medium,Technology,0,Web Developer
+79,79,Medium,High,Low,Technology,0,QA Engineer
+81,79,Medium,Medium,Medium,Technology,0,Web Developer
+95,87,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+86,90,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+75,93,Low,Medium,High,Technology,2,UI/UX Designer
+78,72,High,High,Low,Technology,4,Backend Developer
+77,77,High,Medium,Low,Technology,1,Cyber Security Analyst
+73,78,Medium,Medium,Low,Technology,0,Data Analyst
+95,93,High,High,Low,Technology,2,ML Engineer (Junior)
+73,83,Medium,High,Medium,Technology,1,Web Developer
+79,72,High,Medium,Low,Technology,5,DevOps Engineer (Junior)
+85,87,Medium,High,High,Technology,0,Frontend Developer
+73,70,Medium,Medium,Medium,Technology,2,Web Developer
+93,70,Medium,High,Low,Technology,3,Data Analyst
+73,87,High,High,Low,Technology,3,Software Engineer
+84,88,Medium,High,Low,Technology,1,QA Engineer
+93,76,Medium,High,High,Technology,3,Frontend Developer
+71,87,High,High,Low,Technology,4,Cloud Engineer (Junior)
+80,77,Medium,High,Medium,Technology,0,Web Developer
+86,73,Medium,High,Medium,Technology,0,Web Developer
+78,87,High,High,Low,Technology,3,Data Scientist (Junior)
+80,91,Medium,High,Low,Technology,1,Junior Software Engineer
+73,92,High,Medium,Low,Technology,0,Cyber Security Analyst
+71,80,Low,High,High,Technology,0,UI/UX Designer
+89,73,High,Medium,Low,Technology,1,ML Engineer (Junior)
+71,80,High,High,Low,Technology,3,Data Scientist (Junior)
+76,95,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+85,72,Medium,Medium,Low,Technology,2,QA Engineer
+79,86,High,High,Low,Technology,0,Backend Developer
+95,85,Medium,High,Low,Technology,0,QA Engineer
+86,84,High,High,Low,Technology,0,Backend Developer
+87,73,Medium,Medium,Low,Technology,1,Junior Software Engineer
+75,89,Medium,Medium,Low,Technology,1,Junior Software Engineer
+70,80,High,High,Low,Technology,0,Backend Developer
+74,71,High,Medium,Low,Technology,1,Software Engineer
+87,89,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+79,70,Medium,Medium,Low,Technology,2,Data Analyst
+78,87,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+89,78,Medium,Medium,Medium,Technology,0,Web Developer
+88,73,High,High,Low,Technology,0,Backend Developer
+90,88,High,High,Low,Technology,3,Backend Developer
+71,93,Medium,High,Low,Technology,2,Junior Software Engineer
+91,73,High,Medium,Low,Technology,3,Cloud Engineer (Junior)
+82,90,High,High,Low,Technology,1,Backend Developer
+72,77,High,Medium,Low,Technology,2,Data Scientist (Junior)
+82,70,Low,High,High,Technology,2,UI/UX Designer
+75,94,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+94,91,High,High,Low,Technology,0,DevOps Engineer (Junior)
+71,89,High,High,Low,Technology,1,Cloud Engineer (Junior)
+73,85,High,High,Low,Technology,3,Backend Developer
+93,91,High,Medium,Low,Technology,3,Data Scientist (Junior)
+89,90,Medium,High,Low,Technology,2,Junior Software Engineer
+75,82,High,Medium,Low,Technology,2,ML Engineer (Junior)
+83,93,High,High,Low,Technology,5,Data Scientist (Junior)
+73,79,Low,High,High,Technology,2,UI/UX Designer
+94,76,Medium,Medium,Low,Technology,1,Data Analyst
+70,85,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+92,91,High,High,Low,Technology,0,Data Scientist (Junior)
+75,83,High,High,Low,Technology,1,Cyber Security Analyst
+83,88,High,Medium,Low,Technology,1,Data Scientist (Junior)
+86,79,Medium,Medium,High,Technology,1,Frontend Developer
+85,94,High,High,Low,Technology,1,Software Engineer
+86,84,High,Medium,Low,Technology,3,Cyber Security Analyst
+74,71,High,High,Low,Technology,3,ML Engineer (Junior)
+76,85,Medium,Medium,Low,Technology,1,Junior Software Engineer
+88,94,High,Medium,Low,Technology,0,Software Engineer
+84,81,High,High,Low,Technology,0,Backend Developer
+77,87,Medium,Medium,High,Technology,0,Frontend Developer
+77,93,Medium,Medium,Low,Technology,2,QA Engineer
+92,87,Low,High,High,Technology,0,UI/UX Designer
+78,75,High,High,Low,Technology,0,Backend Developer
+87,74,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+83,87,Medium,High,Medium,Technology,1,Web Developer
+92,90,Medium,High,Medium,Technology,1,Web Developer
+79,86,High,Medium,Low,Technology,3,Cyber Security Analyst
+81,85,High,Medium,Low,Technology,0,Backend Developer
+93,89,Medium,High,Medium,Technology,2,Web Developer
+74,91,High,High,Low,Technology,0,Data Scientist (Junior)
+79,92,High,High,Low,Technology,2,Cyber Security Analyst
+76,82,High,High,Low,Technology,1,ML Engineer (Junior)
+94,94,Medium,High,Low,Technology,3,Junior Software Engineer
+88,78,High,High,Low,Technology,0,Software Engineer
+95,72,High,Medium,Low,Technology,0,Data Scientist (Junior)
+85,90,High,Medium,Low,Technology,1,Software Engineer
+76,86,Medium,Medium,Low,Technology,1,QA Engineer
+81,93,Medium,High,High,Technology,0,Frontend Developer
+92,95,Medium,Medium,Low,Technology,1,Data Analyst
+84,85,Low,High,High,Technology,0,UI/UX Designer
+85,70,High,Medium,Low,Technology,0,Data Scientist (Junior)
+75,79,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+76,88,Medium,High,High,Technology,0,Frontend Developer
+74,78,Medium,High,Low,Technology,1,Data Analyst
+88,84,Medium,Medium,Medium,Technology,0,Web Developer
+92,83,Medium,Medium,Low,Technology,2,Junior Software Engineer
+95,95,High,High,Low,Technology,0,Cloud Engineer (Junior)
+95,82,High,Medium,Low,Technology,1,Backend Developer
+77,75,High,Medium,Low,Technology,3,Software Engineer
+79,71,Medium,Medium,Medium,Technology,3,Web Developer
+78,91,High,High,Low,Technology,0,Software Engineer
+74,75,Low,High,High,Technology,0,UI/UX Designer
+72,75,High,Medium,Low,Technology,0,Data Scientist (Junior)
+80,94,High,High,Low,Technology,0,Cloud Engineer (Junior)
+83,71,High,High,Low,Technology,0,Data Scientist (Junior)
+77,77,High,High,Low,Technology,1,DevOps Engineer (Junior)
+71,80,Medium,High,Medium,Technology,0,Web Developer
+79,86,Medium,High,Low,Technology,2,Junior Software Engineer
+76,92,High,High,Low,Technology,1,Cyber Security Analyst
+81,74,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+83,73,Medium,High,Medium,Technology,3,Web Developer
+74,90,High,High,Low,Technology,2,DevOps Engineer (Junior)
+78,84,Medium,High,High,Technology,0,Frontend Developer
+95,85,High,High,Low,Technology,1,Software Engineer
+91,87,Medium,Medium,Medium,Technology,1,Web Developer
+76,91,High,High,Low,Technology,2,Backend Developer
+79,81,Medium,High,High,Technology,2,Frontend Developer
+92,95,Medium,Medium,Low,Technology,0,QA Engineer
+90,74,High,Medium,Low,Technology,1,Data Scientist (Junior)
+86,89,High,Medium,Low,Technology,4,Software Engineer
+82,74,Medium,High,Low,Technology,0,QA Engineer
+83,91,High,Medium,Low,Technology,0,Backend Developer
+86,75,Medium,Medium,Low,Technology,3,Junior Software Engineer
+84,79,High,High,Low,Technology,0,Software Engineer
+85,81,High,Medium,Low,Technology,0,Software Engineer
+93,76,Medium,High,Medium,Technology,0,Web Developer
+95,82,Medium,High,Low,Technology,0,Data Analyst
+81,88,High,High,Low,Technology,0,Software Engineer
+81,86,Medium,Medium,Low,Technology,1,Data Analyst
+72,82,Medium,High,Low,Technology,2,QA Engineer
+85,79,High,High,Low,Technology,1,ML Engineer (Junior)
+88,74,High,High,Low,Technology,1,Cloud Engineer (Junior)
+94,71,High,High,Low,Technology,0,Software Engineer
+85,90,High,High,Low,Technology,1,Backend Developer
+75,75,Medium,High,Medium,Technology,2,Web Developer
+91,89,High,High,Low,Technology,0,Data Scientist (Junior)
+79,77,Medium,High,Low,Technology,1,Junior Software Engineer
+84,87,Medium,Medium,High,Technology,0,Frontend Developer
+72,82,Medium,High,Medium,Technology,5,Web Developer
+93,88,High,Medium,Low,Technology,1,ML Engineer (Junior)
+86,78,Medium,Medium,High,Technology,1,Frontend Developer
+73,72,High,High,Low,Technology,1,Cyber Security Analyst
+78,74,Medium,Medium,High,Technology,5,Frontend Developer
+72,78,High,High,Low,Technology,1,ML Engineer (Junior)
+70,76,High,Medium,Low,Technology,5,Data Scientist (Junior)
+92,71,High,High,Low,Technology,2,Backend Developer
+86,92,Medium,Medium,Low,Technology,0,Junior Software Engineer
+75,88,High,High,Low,Technology,0,Cloud Engineer (Junior)
+75,94,High,High,Low,Technology,1,DevOps Engineer (Junior)
+70,90,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+75,94,High,High,Low,Technology,3,Software Engineer
+90,93,High,High,Low,Technology,1,Data Scientist (Junior)
+94,93,Medium,Medium,Low,Technology,2,Junior Software Engineer
+76,87,High,Medium,Low,Technology,1,Backend Developer
+85,75,Low,High,High,Technology,1,UI/UX Designer
+71,81,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+72,86,High,High,Low,Technology,1,Cyber Security Analyst
+81,90,Medium,Medium,Low,Technology,1,Data Analyst
+77,93,Medium,Medium,Low,Technology,1,Data Analyst
+79,77,Medium,Medium,Low,Technology,1,QA Engineer
+82,84,Medium,Medium,Low,Technology,3,QA Engineer
+74,95,Medium,Medium,Low,Technology,2,Data Analyst
+95,86,Medium,High,Medium,Technology,4,Web Developer
+77,78,High,High,Low,Technology,0,Data Scientist (Junior)
+75,77,Low,Medium,High,Technology,1,UI/UX Designer
+79,84,Medium,Medium,High,Technology,1,Frontend Developer
+93,79,Medium,Medium,Low,Technology,0,QA Engineer
+81,92,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+87,94,High,High,Low,Technology,2,Data Scientist (Junior)
+92,79,High,High,Low,Technology,3,Data Scientist (Junior)
+79,84,Medium,High,Medium,Technology,0,Web Developer
+83,82,High,High,Low,Technology,2,DevOps Engineer (Junior)
+78,87,Medium,High,Low,Technology,1,QA Engineer
+93,90,High,Medium,Low,Technology,1,Data Scientist (Junior)
+79,87,Low,Medium,High,Technology,0,UI/UX Designer
+74,74,High,Medium,Low,Technology,0,Backend Developer
+94,76,High,High,Low,Technology,0,Cyber Security Analyst
+75,86,High,High,Low,Technology,1,Data Scientist (Junior)
+86,85,High,Medium,Low,Technology,0,ML Engineer (Junior)
+86,89,High,High,Low,Technology,3,Cyber Security Analyst
+77,87,Medium,High,Low,Technology,2,QA Engineer
+85,90,High,Medium,Low,Technology,0,Backend Developer
+83,82,Low,High,High,Technology,0,UI/UX Designer
+91,92,High,High,Low,Technology,2,ML Engineer (Junior)
+81,72,Medium,Medium,Medium,Technology,5,Web Developer
+95,70,High,High,Low,Technology,0,Software Engineer
+75,76,Medium,High,Low,Technology,1,QA Engineer
+92,71,Medium,Medium,Low,Technology,2,Data Analyst
+77,92,Medium,High,Low,Technology,2,Data Analyst
+86,79,High,High,Low,Technology,0,ML Engineer (Junior)
+95,91,Medium,High,Medium,Technology,1,Web Developer
+74,72,High,High,Low,Technology,1,Backend Developer
+89,94,Low,High,High,Technology,0,UI/UX Designer
+89,72,High,Medium,Low,Technology,5,Cloud Engineer (Junior)
+79,77,Medium,Medium,Low,Technology,1,Data Analyst
+92,93,High,High,Low,Technology,2,Software Engineer
+81,75,High,Medium,Low,Technology,0,Cyber Security Analyst
+91,84,High,High,Low,Technology,1,Data Scientist (Junior)
+90,81,Medium,Medium,Medium,Technology,1,Web Developer
+80,81,Medium,Medium,Low,Technology,2,Junior Software Engineer
+91,93,Medium,High,High,Technology,1,Frontend Developer
+94,83,Medium,Medium,Medium,Technology,0,Web Developer
+85,95,Low,Medium,High,Technology,2,UI/UX Designer
+89,81,Medium,Medium,Low,Technology,0,Junior Software Engineer
+95,87,High,High,Low,Technology,0,Backend Developer
+81,82,Medium,Medium,High,Technology,2,Frontend Developer
+92,94,Low,High,High,Technology,0,UI/UX Designer
+78,87,High,High,Low,Technology,1,ML Engineer (Junior)
+92,76,Low,High,High,Technology,0,UI/UX Designer
+90,81,High,Medium,Low,Technology,2,ML Engineer (Junior)
+86,73,High,Medium,Low,Technology,3,ML Engineer (Junior)
+77,89,High,Medium,Low,Technology,0,ML Engineer (Junior)
+83,80,Medium,Medium,Low,Technology,3,Junior Software Engineer
+86,89,Medium,High,Low,Technology,0,Junior Software Engineer
+82,79,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+84,92,Medium,High,Low,Technology,0,QA Engineer
+79,95,Medium,High,Medium,Technology,0,Web Developer
+76,83,High,High,Low,Technology,0,ML Engineer (Junior)
+78,92,High,Medium,Low,Technology,1,Backend Developer
+84,88,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+87,76,Medium,Medium,Low,Technology,0,QA Engineer
+88,74,Low,Medium,High,Technology,0,UI/UX Designer
+95,79,Medium,Medium,Medium,Technology,3,Web Developer
+89,74,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+88,88,Medium,High,Medium,Technology,0,Web Developer
+83,76,High,High,Low,Technology,4,Data Scientist (Junior)
+80,88,Medium,High,Low,Technology,0,Junior Software Engineer
+86,85,High,Medium,Low,Technology,1,Backend Developer
+80,87,Medium,High,High,Technology,1,Frontend Developer
+72,89,Medium,Medium,Medium,Technology,3,Web Developer
+89,81,High,High,Low,Technology,2,Software Engineer
+75,73,Low,High,High,Technology,0,UI/UX Designer
+72,82,High,Medium,Low,Technology,1,Cyber Security Analyst
+88,71,Low,High,High,Technology,2,UI/UX Designer
+92,74,Medium,High,Medium,Technology,1,Web Developer
+72,94,High,High,Low,Technology,0,Data Scientist (Junior)
+78,92,Medium,Medium,Low,Technology,0,QA Engineer
+72,84,Medium,Medium,Low,Technology,0,QA Engineer
+85,71,High,High,Low,Technology,0,Backend Developer
+73,81,High,Medium,Low,Technology,0,Cyber Security Analyst
+95,72,High,High,Low,Technology,0,DevOps Engineer (Junior)
+88,83,Medium,Medium,High,Technology,5,Frontend Developer
+72,74,High,High,Low,Technology,0,Cyber Security Analyst
+86,81,Medium,Medium,High,Technology,2,Frontend Developer
+80,86,Medium,High,High,Technology,1,Frontend Developer
+84,90,High,High,Low,Technology,3,Cyber Security Analyst
+70,86,High,High,Low,Technology,0,Backend Developer
+75,92,High,Medium,Low,Technology,2,Cyber Security Analyst
+93,78,High,High,Low,Technology,2,DevOps Engineer (Junior)
+77,90,Medium,High,Low,Technology,1,Junior Software Engineer
+70,83,High,Medium,Low,Technology,3,DevOps Engineer (Junior)
+95,77,Medium,Medium,Medium,Technology,0,Web Developer
+80,71,Medium,Medium,Low,Technology,2,Junior Software Engineer
+82,86,Medium,High,Low,Technology,0,Data Analyst
+86,94,Medium,Medium,Low,Technology,2,Data Analyst
+84,76,Medium,Medium,Low,Technology,0,Junior Software Engineer
+78,79,Medium,High,Low,Technology,0,QA Engineer
+78,94,High,Medium,Low,Technology,2,Data Scientist (Junior)
+81,81,High,High,Low,Technology,1,Data Scientist (Junior)
+85,75,Medium,High,High,Technology,1,Frontend Developer
+93,72,Medium,Medium,Medium,Technology,1,Web Developer
+88,93,High,Medium,Low,Technology,0,Software Engineer
+86,72,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+73,76,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+89,90,High,Medium,Low,Technology,0,Data Scientist (Junior)
+71,82,Low,High,High,Technology,0,UI/UX Designer
+85,87,High,High,Low,Technology,0,Software Engineer
+71,94,Medium,Medium,Low,Technology,1,Data Analyst
+91,85,Low,High,High,Technology,0,UI/UX Designer
+93,73,High,High,Low,Technology,4,Cloud Engineer (Junior)
+83,73,Medium,High,Low,Technology,0,Junior Software Engineer
+89,78,High,High,Low,Technology,2,ML Engineer (Junior)
+88,81,High,Medium,Low,Technology,0,Software Engineer
+94,77,Medium,High,High,Technology,5,Frontend Developer
+78,79,Medium,Medium,Low,Technology,1,QA Engineer
+94,79,High,High,Low,Technology,0,Backend Developer
+70,92,Medium,High,Low,Technology,0,Junior Software Engineer
+74,80,High,Medium,Low,Technology,1,Data Scientist (Junior)
+76,93,High,High,Low,Technology,1,ML Engineer (Junior)
+95,86,High,High,Low,Technology,0,Software Engineer
+84,90,High,High,Low,Technology,1,Cyber Security Analyst
+94,73,Medium,High,High,Technology,0,Frontend Developer
+93,91,High,High,Low,Technology,0,DevOps Engineer (Junior)
+79,80,High,High,Low,Technology,0,ML Engineer (Junior)
+70,78,High,Medium,Low,Technology,0,Software Engineer
+86,95,High,Medium,Low,Technology,1,Software Engineer
+72,75,High,High,Low,Technology,0,Backend Developer
+75,81,Medium,High,Medium,Technology,0,Web Developer
+90,86,Medium,High,Medium,Technology,0,Web Developer
+77,71,High,Medium,Low,Technology,0,Software Engineer
+78,80,Medium,Medium,Low,Technology,3,Data Analyst
+79,70,High,Medium,Low,Technology,0,Backend Developer
+84,81,High,Medium,Low,Technology,2,Software Engineer
+89,71,Medium,Medium,Medium,Technology,0,Web Developer
+91,75,Medium,High,Low,Technology,0,Junior Software Engineer
+73,85,High,High,Low,Technology,1,Software Engineer
+84,80,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+71,75,High,Medium,Low,Technology,0,Cyber Security Analyst
+93,86,Low,Medium,High,Technology,1,UI/UX Designer
+70,95,High,Medium,Low,Technology,2,Software Engineer
+70,78,High,Medium,Low,Technology,0,ML Engineer (Junior)
+85,85,High,Medium,Low,Technology,3,Cloud Engineer (Junior)
+83,79,High,Medium,Low,Technology,2,Data Scientist (Junior)
+81,88,High,Medium,Low,Technology,0,Software Engineer
+81,95,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+80,74,High,High,Low,Technology,0,Backend Developer
+92,84,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+90,73,Medium,Medium,Low,Technology,0,QA Engineer
+88,91,High,Medium,Low,Technology,0,Software Engineer
+78,81,High,Medium,Low,Technology,0,Backend Developer
+91,91,High,High,Low,Technology,0,Data Scientist (Junior)
+82,92,High,High,Low,Technology,5,ML Engineer (Junior)
+86,82,High,High,Low,Technology,2,Data Scientist (Junior)
+77,95,High,High,Low,Technology,0,Backend Developer
+82,95,High,Medium,Low,Technology,1,Data Scientist (Junior)
+81,83,Medium,Medium,Low,Technology,3,Data Analyst
+92,93,High,High,Low,Technology,0,Cloud Engineer (Junior)
+72,85,Medium,Medium,Low,Technology,0,QA Engineer
+74,88,Medium,Medium,Medium,Technology,1,Web Developer
+73,88,High,Medium,Low,Technology,3,Software Engineer
+91,95,Medium,Medium,Medium,Technology,1,Web Developer
+79,75,Medium,Medium,Low,Technology,3,Data Analyst
+70,93,High,High,Low,Technology,2,Cyber Security Analyst
+80,78,High,High,Low,Technology,1,DevOps Engineer (Junior)
+70,81,High,Medium,Low,Technology,0,Software Engineer
+92,88,Low,Medium,High,Technology,1,UI/UX Designer
+77,85,High,Medium,Low,Technology,2,Data Scientist (Junior)
+95,84,High,Medium,Low,Technology,1,ML Engineer (Junior)
+84,72,High,High,Low,Technology,1,Data Scientist (Junior)
+73,81,Medium,High,Medium,Technology,3,Web Developer
+91,81,High,High,Low,Technology,0,Backend Developer
+71,80,High,High,Low,Technology,0,Cloud Engineer (Junior)
+77,75,High,Medium,Low,Technology,0,Software Engineer
+85,95,High,Medium,Low,Technology,0,ML Engineer (Junior)
+87,81,Medium,Medium,Low,Technology,1,Data Analyst
+75,76,Medium,Medium,Medium,Technology,3,Web Developer
+88,94,High,Medium,Low,Technology,0,ML Engineer (Junior)
+91,83,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+70,88,High,Medium,Low,Technology,0,Data Scientist (Junior)
+76,73,Medium,Medium,High,Technology,4,Frontend Developer
+75,76,Medium,Medium,Low,Technology,3,QA Engineer
+91,82,Medium,High,Low,Technology,3,Data Analyst
+86,87,Low,Medium,High,Technology,3,UI/UX Designer
+95,71,Medium,Medium,Low,Technology,1,Junior Software Engineer
+74,80,Medium,High,Low,Technology,0,Junior Software Engineer
+83,76,Medium,Medium,Medium,Technology,1,Web Developer
+89,72,Medium,High,Low,Technology,5,QA Engineer
+74,78,High,High,Low,Technology,0,Cloud Engineer (Junior)
+90,71,Medium,Medium,Low,Technology,1,QA Engineer
+75,93,High,Medium,Low,Technology,2,Cyber Security Analyst
+90,88,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+77,79,High,High,Low,Technology,1,ML Engineer (Junior)
+95,73,Medium,Medium,Medium,Technology,3,Web Developer
+77,77,Low,High,High,Technology,0,UI/UX Designer
+74,88,Medium,High,Medium,Technology,1,Web Developer
+91,83,Low,High,High,Technology,1,UI/UX Designer
+84,83,High,High,Low,Technology,2,Software Engineer
+94,71,Medium,Medium,Medium,Technology,0,Web Developer
+79,73,Medium,Medium,Low,Technology,0,Data Analyst
+89,85,Medium,Medium,Low,Technology,2,Junior Software Engineer
+74,76,High,High,Low,Technology,2,Backend Developer
+75,73,High,High,Low,Technology,0,Software Engineer
+90,90,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+87,72,High,High,Low,Technology,2,Software Engineer
+73,73,Medium,Medium,High,Technology,3,Frontend Developer
+81,91,Medium,Medium,Low,Technology,0,Junior Software Engineer
+74,74,Medium,High,High,Technology,1,Frontend Developer
+72,75,Medium,High,Low,Technology,0,QA Engineer
+94,83,Medium,High,Low,Technology,3,QA Engineer
+84,89,High,High,Low,Technology,0,ML Engineer (Junior)
+91,85,Medium,Medium,Low,Technology,2,QA Engineer
+72,74,Medium,Medium,High,Technology,2,Frontend Developer
+83,93,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+94,75,High,High,Low,Technology,1,Backend Developer
+78,74,High,Medium,Low,Technology,3,Software Engineer
+91,92,High,Medium,Low,Technology,3,ML Engineer (Junior)
+94,88,High,High,Low,Technology,3,ML Engineer (Junior)
+90,90,Medium,High,Medium,Technology,2,Web Developer
+83,75,High,Medium,Low,Technology,2,ML Engineer (Junior)
+83,79,High,Medium,Low,Technology,0,Software Engineer
+78,72,High,Medium,Low,Technology,0,ML Engineer (Junior)
+83,94,Medium,Medium,Low,Technology,0,Data Analyst
+88,83,High,High,Low,Technology,2,Data Scientist (Junior)
+71,72,Low,High,High,Technology,3,UI/UX Designer
+80,84,High,Medium,Low,Technology,1,Software Engineer
+83,81,High,Medium,Low,Technology,1,Data Scientist (Junior)
+81,93,Medium,High,Low,Technology,0,Junior Software Engineer
+79,71,High,High,Low,Technology,0,Backend Developer
+77,95,Medium,Medium,Medium,Technology,0,Web Developer
+81,87,High,Medium,Low,Technology,0,Software Engineer
+91,94,High,High,Low,Technology,2,Cyber Security Analyst
+81,89,Medium,High,Low,Technology,0,Data Analyst
+86,78,High,Medium,Low,Technology,0,Data Scientist (Junior)
+87,72,High,High,Low,Technology,2,DevOps Engineer (Junior)
+72,93,High,High,Low,Technology,0,Data Scientist (Junior)
+70,95,High,High,Low,Technology,1,ML Engineer (Junior)
+82,92,High,High,Low,Technology,1,ML Engineer (Junior)
+80,78,High,Medium,Low,Technology,1,ML Engineer (Junior)
+95,80,Medium,High,Low,Technology,0,Data Analyst
+81,80,High,Medium,Low,Technology,3,Software Engineer
+91,87,Medium,Medium,Low,Technology,3,Junior Software Engineer
+72,93,Medium,Medium,High,Technology,1,Frontend Developer
+89,81,Medium,High,Low,Technology,1,QA Engineer
+91,87,Low,Medium,High,Technology,1,UI/UX Designer
+73,73,Medium,High,Medium,Technology,1,Web Developer
+84,77,Medium,Medium,Low,Technology,0,QA Engineer
+93,78,Medium,High,Low,Technology,1,QA Engineer
+91,80,Medium,High,Low,Technology,3,Junior Software Engineer
+83,71,High,Medium,Low,Technology,0,Backend Developer
+88,83,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+93,79,Medium,Medium,Medium,Technology,0,Web Developer
+71,94,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+77,79,High,Medium,Low,Technology,0,ML Engineer (Junior)
+84,82,Medium,High,Low,Technology,1,Data Analyst
+89,72,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+87,95,Low,Medium,High,Technology,0,UI/UX Designer
+80,80,High,Medium,Low,Technology,0,Backend Developer
+89,77,High,High,Low,Technology,5,ML Engineer (Junior)
+84,81,Medium,Medium,Medium,Technology,0,Web Developer
+86,85,High,Medium,Low,Technology,1,ML Engineer (Junior)
+85,87,High,Medium,Low,Technology,5,Cloud Engineer (Junior)
+74,93,Medium,Medium,Low,Technology,0,QA Engineer
+83,70,Medium,Medium,Medium,Technology,1,Web Developer
+86,81,High,Medium,Low,Technology,0,Software Engineer
+85,93,Medium,Medium,Low,Technology,3,QA Engineer
+87,86,High,High,Low,Technology,1,Cloud Engineer (Junior)
+86,78,High,High,Low,Technology,0,Cyber Security Analyst
+93,93,High,Medium,Low,Technology,1,Software Engineer
+93,88,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+93,79,Medium,Medium,Medium,Technology,0,Web Developer
+73,84,High,Medium,Low,Technology,2,Software Engineer
+80,81,Medium,High,High,Technology,0,Frontend Developer
+92,76,Medium,High,High,Technology,2,Frontend Developer
+88,78,High,Medium,Low,Technology,0,Software Engineer
+90,86,Medium,High,Low,Technology,3,QA Engineer
+70,93,Medium,Medium,High,Technology,2,Frontend Developer
+71,71,High,High,Low,Technology,1,Backend Developer
+72,88,Medium,Medium,Low,Technology,1,Junior Software Engineer
+94,84,Low,High,High,Technology,0,UI/UX Designer
+75,78,Low,Medium,High,Technology,1,UI/UX Designer
+81,88,Medium,Medium,Low,Technology,1,Junior Software Engineer
+76,77,High,High,Low,Technology,1,DevOps Engineer (Junior)
+88,85,Low,High,High,Technology,0,UI/UX Designer
+86,82,High,High,Low,Technology,0,Cloud Engineer (Junior)
+82,70,High,High,Low,Technology,5,DevOps Engineer (Junior)
+90,81,Medium,High,Low,Technology,0,Data Analyst
+73,80,High,High,Low,Technology,2,ML Engineer (Junior)
+84,73,Medium,Medium,Low,Technology,4,Data Analyst
+95,72,High,Medium,Low,Technology,1,ML Engineer (Junior)
+76,77,Medium,Medium,High,Technology,1,Frontend Developer
+85,81,High,Medium,Low,Technology,1,Software Engineer
+70,93,Medium,Medium,Medium,Technology,1,Web Developer
+73,82,High,High,Low,Technology,0,Software Engineer
+93,74,High,High,Low,Technology,3,Backend Developer
+73,83,High,High,Low,Technology,0,Backend Developer
+77,80,High,High,Low,Technology,2,Backend Developer
+88,74,High,Medium,Low,Technology,2,ML Engineer (Junior)
+87,92,High,High,Low,Technology,0,Backend Developer
+92,88,Low,Medium,High,Technology,2,UI/UX Designer
+77,83,Low,Medium,High,Technology,1,UI/UX Designer
+91,78,High,High,Low,Technology,0,Backend Developer
+81,72,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+93,71,Medium,High,High,Technology,0,Frontend Developer
+76,87,High,High,Low,Technology,3,Cloud Engineer (Junior)
+95,73,High,Medium,Low,Technology,0,ML Engineer (Junior)
+92,87,Medium,High,High,Technology,0,Frontend Developer
+94,89,High,High,Low,Technology,1,Software Engineer
+80,77,Medium,Medium,Low,Technology,4,QA Engineer
+87,82,Medium,High,Low,Technology,0,Data Analyst
+70,91,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+76,90,High,Medium,Low,Technology,2,ML Engineer (Junior)
+80,74,High,Medium,Low,Technology,1,ML Engineer (Junior)
+88,79,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+91,82,High,High,Low,Technology,1,Cyber Security Analyst
+71,79,High,High,Low,Technology,0,Software Engineer
+75,83,Low,High,High,Technology,2,UI/UX Designer
+84,92,High,Medium,Low,Technology,2,Backend Developer
+70,80,Low,High,High,Technology,0,UI/UX Designer
+76,79,High,Medium,Low,Technology,1,ML Engineer (Junior)
+70,83,Medium,Medium,Low,Technology,3,Junior Software Engineer
+89,80,High,High,Low,Technology,0,Data Scientist (Junior)
+93,79,Medium,High,Low,Technology,4,Junior Software Engineer
+82,80,Low,High,High,Technology,1,UI/UX Designer
+71,83,Medium,High,Low,Technology,0,QA Engineer
+95,93,Medium,Medium,Low,Technology,2,Data Analyst
+83,76,Medium,Medium,Low,Technology,0,QA Engineer
+70,73,High,High,Low,Technology,0,ML Engineer (Junior)
+75,87,Medium,High,Medium,Technology,2,Web Developer
+74,87,High,High,Low,Technology,4,ML Engineer (Junior)
+72,88,High,High,Low,Technology,2,ML Engineer (Junior)
+70,86,High,High,Low,Technology,3,Cyber Security Analyst
+71,80,Medium,Medium,High,Technology,1,Frontend Developer
+78,82,High,Medium,Low,Technology,2,Cyber Security Analyst
+70,79,High,High,Low,Technology,0,DevOps Engineer (Junior)
+86,73,High,High,Low,Technology,1,Cloud Engineer (Junior)
+84,72,High,High,Low,Technology,0,Cyber Security Analyst
+87,88,High,High,Low,Technology,2,DevOps Engineer (Junior)
+83,78,High,High,Low,Technology,1,Cyber Security Analyst
+74,75,High,Medium,Low,Technology,1,Software Engineer
+79,72,Medium,Medium,Low,Technology,1,Junior Software Engineer
+72,92,Medium,Medium,Medium,Technology,0,Web Developer
+84,72,High,Medium,Low,Technology,3,ML Engineer (Junior)
+84,89,High,Medium,Low,Technology,1,Cyber Security Analyst
+95,95,High,High,Low,Technology,2,Software Engineer
+90,74,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+72,91,Low,Medium,High,Technology,1,UI/UX Designer
+88,83,Medium,Medium,Medium,Technology,2,Web Developer
+77,90,Medium,High,Medium,Technology,1,Web Developer
+90,85,High,High,Low,Technology,2,Cyber Security Analyst
+80,79,Medium,Medium,Low,Technology,3,Data Analyst
+82,88,Medium,Medium,Medium,Technology,1,Web Developer
+84,83,Medium,Medium,Medium,Technology,0,Web Developer
+90,85,Low,Medium,High,Technology,1,UI/UX Designer
+77,83,Medium,High,Low,Technology,0,Data Analyst
+77,74,Low,High,High,Technology,0,UI/UX Designer
+87,74,Medium,High,Low,Technology,2,Junior Software Engineer
+91,84,Medium,High,Low,Technology,0,Junior Software Engineer
+79,77,Medium,High,High,Technology,0,Frontend Developer
+80,93,High,Medium,Low,Technology,0,ML Engineer (Junior)
+79,70,High,High,Low,Technology,0,ML Engineer (Junior)
+76,76,High,Medium,Low,Technology,1,Data Scientist (Junior)
+91,84,High,High,Low,Technology,1,Cloud Engineer (Junior)
+81,80,High,Medium,Low,Technology,0,Cyber Security Analyst
+94,80,High,High,Low,Technology,1,Software Engineer
+85,95,Medium,Medium,High,Technology,1,Frontend Developer
+84,80,Medium,High,Low,Technology,0,QA Engineer
+71,71,Low,Medium,High,Technology,0,UI/UX Designer
+80,71,High,High,Low,Technology,0,ML Engineer (Junior)
+78,86,High,High,Low,Technology,1,Software Engineer
+93,72,High,Medium,Low,Technology,0,ML Engineer (Junior)
+93,70,High,High,Low,Technology,2,ML Engineer (Junior)
+85,73,High,Medium,Low,Technology,1,ML Engineer (Junior)
+78,91,Medium,High,Low,Technology,1,Data Analyst
+87,79,Medium,High,Medium,Technology,3,Web Developer
+70,72,Medium,Medium,Low,Technology,0,Data Analyst
+75,85,Medium,Medium,Low,Technology,1,Junior Software Engineer
+93,90,High,Medium,Low,Technology,4,Cloud Engineer (Junior)
+80,74,Low,Medium,High,Technology,1,UI/UX Designer
+74,74,High,Medium,Low,Technology,1,Backend Developer
+92,92,High,High,Low,Technology,0,Software Engineer
+74,72,Medium,Medium,Low,Technology,1,Junior Software Engineer
+79,81,Medium,High,Low,Technology,1,Junior Software Engineer
+93,94,Medium,High,Low,Technology,0,QA Engineer
+78,78,High,High,Low,Technology,0,Backend Developer
+72,92,Medium,Medium,High,Technology,0,Frontend Developer
+84,93,Low,Medium,High,Technology,0,UI/UX Designer
+83,73,High,High,Low,Technology,1,Cloud Engineer (Junior)
+88,75,Medium,High,Low,Technology,1,Junior Software Engineer
+92,84,High,Medium,Low,Technology,0,Cyber Security Analyst
+73,80,Medium,Medium,Low,Technology,1,Junior Software Engineer
+93,85,High,High,Low,Technology,0,ML Engineer (Junior)
+74,91,High,High,Low,Technology,1,DevOps Engineer (Junior)
+76,80,Medium,High,Low,Technology,0,QA Engineer
+84,74,High,High,Low,Technology,1,ML Engineer (Junior)
+94,91,Low,High,High,Technology,5,UI/UX Designer
+79,92,High,High,Low,Technology,3,Cyber Security Analyst
+93,75,High,Medium,Low,Technology,0,Cyber Security Analyst
+76,73,High,High,Low,Technology,3,Cyber Security Analyst
+74,70,Medium,Medium,Low,Technology,1,QA Engineer
+70,74,High,High,Low,Technology,1,Data Scientist (Junior)
+80,83,High,Medium,Low,Technology,2,ML Engineer (Junior)
+88,81,High,Medium,Low,Technology,2,ML Engineer (Junior)
+85,93,Medium,Medium,Low,Technology,2,Junior Software Engineer
+89,73,High,High,Low,Technology,2,Cloud Engineer (Junior)
+84,89,Medium,Medium,Low,Technology,2,Data Analyst
+78,70,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+85,92,Medium,High,Low,Technology,3,Junior Software Engineer
+82,82,Medium,Medium,High,Technology,1,Frontend Developer
+91,92,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+92,85,High,Medium,Low,Technology,1,Cyber Security Analyst
+70,74,Medium,Medium,Medium,Technology,2,Web Developer
+76,91,Medium,Medium,Medium,Technology,0,Web Developer
+71,95,Medium,High,Low,Technology,0,Data Analyst
+78,82,Medium,Medium,Low,Technology,1,Junior Software Engineer
+76,71,Medium,Medium,Medium,Technology,0,Web Developer
+88,86,Medium,Medium,Low,Technology,4,QA Engineer
+88,85,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+80,72,Medium,High,High,Technology,0,Frontend Developer
+78,70,Medium,Medium,Medium,Technology,2,Web Developer
+85,90,High,Medium,Low,Technology,2,ML Engineer (Junior)
+81,89,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+94,94,Medium,Medium,Low,Technology,1,QA Engineer
+84,86,Medium,Medium,High,Technology,1,Frontend Developer
+83,76,Medium,High,Low,Technology,2,Junior Software Engineer
+89,84,High,Medium,Low,Technology,0,Cyber Security Analyst
+79,91,High,Medium,Low,Technology,3,DevOps Engineer (Junior)
+76,85,High,Medium,Low,Technology,1,Backend Developer
+85,90,High,Medium,Low,Technology,0,Backend Developer
+92,79,High,Medium,Low,Technology,1,Cyber Security Analyst
+81,84,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+87,82,High,High,Low,Technology,4,ML Engineer (Junior)
+81,76,Medium,Medium,Low,Technology,2,QA Engineer
+78,95,Low,Medium,High,Technology,2,UI/UX Designer
+92,91,High,High,Low,Technology,1,ML Engineer (Junior)
+92,93,Medium,High,Low,Technology,3,Junior Software Engineer
+73,80,High,High,Low,Technology,1,DevOps Engineer (Junior)
+95,72,High,Medium,Low,Technology,1,Cyber Security Analyst
+81,80,High,High,Low,Technology,2,Cyber Security Analyst
+73,89,Low,Medium,High,Technology,4,UI/UX Designer
+89,92,Medium,High,Low,Technology,1,Data Analyst
+90,71,High,High,Low,Technology,1,Cyber Security Analyst
+87,73,Medium,High,Low,Technology,0,Junior Software Engineer
+78,76,Medium,High,Low,Technology,0,Junior Software Engineer
+76,73,High,Medium,Low,Technology,2,Software Engineer
+71,70,High,High,Low,Technology,0,Cyber Security Analyst
+76,70,High,High,Low,Technology,2,Cyber Security Analyst
+88,84,Medium,Medium,High,Technology,0,Frontend Developer
+84,89,Medium,Medium,High,Technology,1,Frontend Developer
+84,88,High,High,Low,Technology,0,Software Engineer
+91,72,Medium,High,Medium,Technology,0,Web Developer
+94,71,High,Medium,Low,Technology,3,Backend Developer
+77,94,High,High,Low,Technology,0,Cyber Security Analyst
+94,71,High,Medium,Low,Technology,0,Software Engineer
+77,93,High,High,Low,Technology,0,DevOps Engineer (Junior)
+76,75,Low,High,High,Technology,3,UI/UX Designer
+84,84,Medium,High,Low,Technology,1,Junior Software Engineer
+89,90,High,Medium,Low,Technology,1,ML Engineer (Junior)
+70,87,High,Medium,Low,Technology,1,Software Engineer
+76,84,High,Medium,Low,Technology,0,ML Engineer (Junior)
+90,78,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+89,95,Medium,Medium,Medium,Technology,0,Web Developer
+86,88,High,Medium,Low,Technology,1,Cyber Security Analyst
+70,71,High,High,Low,Technology,0,DevOps Engineer (Junior)
+93,89,High,High,Low,Technology,3,Backend Developer
+90,75,Medium,High,Low,Technology,3,QA Engineer
+82,82,High,High,Low,Technology,4,ML Engineer (Junior)
+86,79,High,High,Low,Technology,1,Backend Developer
+83,78,High,Medium,Low,Technology,1,ML Engineer (Junior)
+88,89,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+76,90,Medium,Medium,Low,Technology,1,QA Engineer
+95,87,High,Medium,Low,Technology,3,Software Engineer
+90,90,High,Medium,Low,Technology,2,Cyber Security Analyst
+70,79,High,Medium,Low,Technology,0,Software Engineer
+95,94,High,Medium,Low,Technology,1,ML Engineer (Junior)
+92,92,High,Medium,Low,Technology,0,Software Engineer
+73,75,High,Medium,Low,Technology,0,ML Engineer (Junior)
+81,89,Medium,High,Low,Technology,1,QA Engineer
+83,73,Low,Medium,High,Technology,3,UI/UX Designer
+75,84,High,High,Low,Technology,3,Data Scientist (Junior)
+89,90,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+83,83,Medium,Medium,Low,Technology,1,Data Analyst
+92,92,High,High,Low,Technology,4,Cloud Engineer (Junior)
+90,72,High,High,Low,Technology,0,Cloud Engineer (Junior)
+85,83,Medium,High,Medium,Technology,1,Web Developer
+94,86,Medium,High,High,Technology,0,Frontend Developer
+94,84,Medium,High,High,Technology,0,Frontend Developer
+93,86,High,High,Low,Technology,0,Cyber Security Analyst
+75,80,High,Medium,Low,Technology,1,Data Scientist (Junior)
+80,91,Medium,Medium,High,Technology,0,Frontend Developer
+93,83,High,High,Low,Technology,0,Cyber Security Analyst
+92,72,High,Medium,Low,Technology,2,ML Engineer (Junior)
+81,84,High,High,Low,Technology,0,Software Engineer
+95,87,Low,High,High,Technology,0,UI/UX Designer
+95,76,High,Medium,Low,Technology,3,Cloud Engineer (Junior)
+90,80,High,High,Low,Technology,0,DevOps Engineer (Junior)
+74,90,Medium,High,Low,Technology,1,Junior Software Engineer
+88,81,Medium,High,Low,Technology,2,Data Analyst
+77,76,Low,Medium,High,Technology,1,UI/UX Designer
+88,89,Medium,Medium,Medium,Technology,0,Web Developer
+83,79,Low,Medium,High,Technology,3,UI/UX Designer
+80,82,High,Medium,Low,Technology,1,Software Engineer
+75,79,High,High,Low,Technology,0,DevOps Engineer (Junior)
+74,84,High,High,Low,Technology,2,Software Engineer
+75,73,High,High,Low,Technology,1,Cyber Security Analyst
+78,84,Medium,Medium,Low,Technology,0,Data Analyst
+71,77,Medium,High,Low,Technology,0,Data Analyst
+93,90,High,Medium,Low,Technology,0,ML Engineer (Junior)
+85,85,Medium,Medium,Low,Technology,0,QA Engineer
+82,80,High,High,Low,Technology,0,Backend Developer
+95,79,Medium,High,Medium,Technology,1,Web Developer
+87,86,Medium,High,Low,Technology,3,QA Engineer
+77,71,Medium,Medium,Low,Technology,0,Junior Software Engineer
+71,86,High,High,Low,Technology,1,Software Engineer
+76,89,High,Medium,Low,Technology,3,ML Engineer (Junior)
+88,88,High,Medium,Low,Technology,0,ML Engineer (Junior)
+91,89,Low,Medium,High,Technology,0,UI/UX Designer
+70,78,Medium,High,Low,Technology,2,QA Engineer
+92,87,Low,Medium,High,Technology,0,UI/UX Designer
+83,72,Medium,Medium,High,Technology,0,Frontend Developer
+88,73,High,High,Low,Technology,2,DevOps Engineer (Junior)
+78,92,Low,Medium,High,Technology,1,UI/UX Designer
+82,73,High,High,Low,Technology,1,DevOps Engineer (Junior)
+83,76,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+84,91,High,High,Low,Technology,0,Software Engineer
+81,94,Medium,Medium,Low,Technology,0,Data Analyst
+73,77,High,Medium,Low,Technology,2,Software Engineer
+77,79,Medium,Medium,Medium,Technology,0,Web Developer
+78,92,Medium,Medium,Low,Technology,0,QA Engineer
+75,87,Medium,Medium,Low,Technology,3,Junior Software Engineer
+79,80,High,Medium,Low,Technology,2,ML Engineer (Junior)
+87,83,High,Medium,Low,Technology,2,Data Scientist (Junior)
+74,89,High,Medium,Low,Technology,1,ML Engineer (Junior)
+94,74,Medium,High,Low,Technology,2,QA Engineer
+71,81,High,High,Low,Technology,1,Backend Developer
+77,89,High,High,Low,Technology,0,Cyber Security Analyst
+71,77,High,Medium,Low,Technology,0,Software Engineer
+94,85,Medium,High,Low,Technology,2,QA Engineer
+74,92,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+75,86,Medium,Medium,High,Technology,1,Frontend Developer
+79,83,Medium,Medium,Low,Technology,3,Data Analyst
+78,89,High,High,Low,Technology,0,Software Engineer
+76,80,Medium,High,High,Technology,3,Frontend Developer
+75,73,High,High,Low,Technology,1,Data Scientist (Junior)
+94,83,Medium,Medium,High,Technology,1,Frontend Developer
+78,77,High,Medium,Low,Technology,2,Data Scientist (Junior)
+80,73,Medium,Medium,High,Technology,0,Frontend Developer
+79,77,High,High,Low,Technology,2,DevOps Engineer (Junior)
+79,95,High,High,Low,Technology,0,Cyber Security Analyst
+90,82,Medium,Medium,Low,Technology,1,Junior Software Engineer
+95,90,Low,High,High,Technology,3,UI/UX Designer
+77,86,High,Medium,Low,Technology,1,Backend Developer
+87,91,High,Medium,Low,Technology,0,ML Engineer (Junior)
+79,80,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+79,73,High,Medium,Low,Technology,1,Software Engineer
+79,92,Low,High,High,Technology,2,UI/UX Designer
+75,95,High,Medium,Low,Technology,0,Backend Developer
+83,88,High,Medium,Low,Technology,0,Data Scientist (Junior)
+81,94,Low,High,High,Technology,0,UI/UX Designer
+95,87,Medium,High,Low,Technology,1,Junior Software Engineer
+94,86,High,Medium,Low,Technology,0,Backend Developer
+91,73,Low,Medium,High,Technology,0,UI/UX Designer
+83,81,Medium,Medium,Low,Technology,3,Data Analyst
+90,85,High,Medium,Low,Technology,0,Cyber Security Analyst
+90,84,Medium,Medium,Low,Technology,0,Data Analyst
+74,82,High,Medium,Low,Technology,2,ML Engineer (Junior)
+85,87,High,High,Low,Technology,3,ML Engineer (Junior)
+89,89,Medium,High,Low,Technology,1,Data Analyst
+77,89,Medium,High,High,Technology,0,Frontend Developer
+93,74,High,High,Low,Technology,0,DevOps Engineer (Junior)
+95,91,High,High,Low,Technology,2,Cyber Security Analyst
+74,89,High,High,Low,Technology,1,DevOps Engineer (Junior)
+93,80,Medium,Medium,Low,Technology,0,Junior Software Engineer
+85,92,High,Medium,Low,Technology,0,Backend Developer
+84,79,Medium,Medium,High,Technology,3,Frontend Developer
+88,74,High,Medium,Low,Technology,2,Data Scientist (Junior)
+90,89,Low,High,High,Technology,4,UI/UX Designer
+88,78,High,Medium,Low,Technology,2,Backend Developer
+81,82,High,High,Low,Technology,0,Cloud Engineer (Junior)
+76,83,Medium,High,High,Technology,1,Frontend Developer
+88,80,Medium,Medium,Medium,Technology,1,Web Developer
+77,75,High,Medium,Low,Technology,0,Software Engineer
+71,86,High,High,Low,Technology,0,Data Scientist (Junior)
+85,70,High,High,Low,Technology,0,ML Engineer (Junior)
+89,89,High,High,Low,Technology,0,Data Scientist (Junior)
+92,75,Low,Medium,High,Technology,3,UI/UX Designer
+71,78,Medium,Medium,Low,Technology,0,QA Engineer
+74,71,High,Medium,Low,Technology,2,Software Engineer
+87,89,Low,Medium,High,Technology,0,UI/UX Designer
+73,75,High,High,Low,Technology,1,ML Engineer (Junior)
+72,74,High,High,Low,Technology,0,Cloud Engineer (Junior)
+79,81,Medium,Medium,Low,Technology,1,Data Analyst
+72,74,Medium,Medium,Medium,Technology,0,Web Developer
+77,71,Medium,Medium,High,Technology,0,Frontend Developer
+77,82,High,High,Low,Technology,1,ML Engineer (Junior)
+92,86,Medium,Medium,Medium,Technology,0,Web Developer
+83,87,Medium,High,Low,Technology,1,Data Analyst
+75,85,High,High,Low,Technology,1,Data Scientist (Junior)
+76,92,High,High,Low,Technology,0,Data Scientist (Junior)
+80,81,Medium,Medium,Medium,Technology,0,Web Developer
+76,76,High,High,Low,Technology,2,Backend Developer
+91,72,Medium,Medium,Low,Technology,0,Data Analyst
+81,72,Medium,High,Medium,Technology,1,Web Developer
+93,89,Medium,High,Low,Technology,0,QA Engineer
+72,91,Medium,High,Low,Technology,1,QA Engineer
+87,89,High,Medium,Low,Technology,1,Cyber Security Analyst
+84,77,High,Medium,Low,Technology,2,ML Engineer (Junior)
+90,92,Medium,High,High,Technology,2,Frontend Developer
+80,88,High,Medium,Low,Technology,0,Backend Developer
+91,77,High,Medium,Low,Technology,3,Data Scientist (Junior)
+70,91,High,High,Low,Technology,1,DevOps Engineer (Junior)
+85,90,Medium,High,Low,Technology,0,Junior Software Engineer
+84,76,Medium,Medium,Low,Technology,3,Data Analyst
+93,85,High,High,Low,Technology,0,Data Scientist (Junior)
+74,78,High,Medium,Low,Technology,0,Backend Developer
+73,89,Medium,High,Low,Technology,1,Junior Software Engineer
+76,79,High,Medium,Low,Technology,3,Cyber Security Analyst
+86,74,High,Medium,Low,Technology,0,Backend Developer
+75,86,High,Medium,Low,Technology,0,Backend Developer
+87,86,High,High,Low,Technology,3,ML Engineer (Junior)
+93,86,Medium,Medium,Low,Technology,0,QA Engineer
+87,95,Medium,Medium,Low,Technology,2,QA Engineer
+95,88,Low,Medium,High,Technology,3,UI/UX Designer
+72,78,High,Medium,Low,Technology,1,Data Scientist (Junior)
+73,78,High,Medium,Low,Technology,1,Backend Developer
+94,70,Medium,Medium,Medium,Technology,1,Web Developer
+78,75,High,Medium,Low,Technology,0,Data Scientist (Junior)
+76,82,Medium,High,Medium,Technology,4,Web Developer
+84,79,High,High,Low,Technology,0,Data Scientist (Junior)
+77,73,High,Medium,Low,Technology,5,Software Engineer
+77,87,Medium,Medium,High,Technology,1,Frontend Developer
+85,82,Medium,High,High,Technology,0,Frontend Developer
+91,93,High,Medium,Low,Technology,2,Cyber Security Analyst
+80,83,Medium,Medium,Low,Technology,3,QA Engineer
+74,79,High,High,Low,Technology,0,Software Engineer
+78,75,Medium,Medium,Low,Technology,3,Data Analyst
+95,80,High,High,Low,Technology,0,DevOps Engineer (Junior)
+78,75,High,Medium,Low,Technology,3,Cyber Security Analyst
+71,78,Medium,Medium,Low,Technology,1,QA Engineer
+73,73,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+94,88,High,High,Low,Technology,2,DevOps Engineer (Junior)
+77,82,High,Medium,Low,Technology,1,Software Engineer
+79,92,Medium,High,Low,Technology,0,Junior Software Engineer
+84,86,Low,Medium,High,Technology,0,UI/UX Designer
+71,90,High,Medium,Low,Technology,5,Cloud Engineer (Junior)
+79,71,Medium,Medium,Medium,Technology,2,Web Developer
+94,84,High,Medium,Low,Technology,0,Data Scientist (Junior)
+71,91,High,Medium,Low,Technology,1,Data Scientist (Junior)
+72,76,Low,Medium,High,Technology,5,UI/UX Designer
+85,79,High,High,Low,Technology,1,Data Scientist (Junior)
+75,95,Medium,High,Medium,Technology,0,Web Developer
+88,86,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+93,84,Medium,High,Low,Technology,1,Data Analyst
+78,94,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+94,92,High,High,Low,Technology,0,Backend Developer
+79,78,High,Medium,Low,Technology,3,Data Scientist (Junior)
+75,91,High,Medium,Low,Technology,0,Software Engineer
+84,82,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+87,90,Medium,High,Low,Technology,0,QA Engineer
+90,83,High,Medium,Low,Technology,2,Software Engineer
+85,92,Medium,High,Medium,Technology,2,Web Developer
+93,85,Medium,Medium,Low,Technology,4,Junior Software Engineer
+71,89,Low,Medium,High,Technology,0,UI/UX Designer
+75,88,Medium,High,Low,Technology,1,Data Analyst
+94,78,Medium,High,Low,Technology,2,QA Engineer
+92,88,High,High,Low,Technology,0,Data Scientist (Junior)
+94,71,High,Medium,Low,Technology,3,Cyber Security Analyst
+80,72,Medium,Medium,Low,Technology,1,Junior Software Engineer
+86,77,Low,Medium,High,Technology,0,UI/UX Designer
+94,92,High,High,Low,Technology,3,Backend Developer
+79,78,High,Medium,Low,Technology,0,Cyber Security Analyst
+77,82,Medium,Medium,High,Technology,2,Frontend Developer
+84,73,Medium,Medium,Low,Technology,1,Junior Software Engineer
+88,83,High,High,Low,Technology,1,Software Engineer
+76,78,Medium,Medium,High,Technology,1,Frontend Developer
+91,93,Medium,Medium,Low,Technology,1,Junior Software Engineer
+71,83,High,High,Low,Technology,5,Data Scientist (Junior)
+86,76,Medium,Medium,Low,Technology,1,QA Engineer
+90,91,Medium,Medium,Low,Technology,0,Data Analyst
+76,88,Medium,Medium,Low,Technology,1,Junior Software Engineer
+89,85,Medium,Medium,Low,Technology,3,Junior Software Engineer
+92,95,Low,Medium,High,Technology,4,UI/UX Designer
+72,86,High,Medium,Low,Technology,3,Software Engineer
+79,72,Low,Medium,High,Technology,0,UI/UX Designer
+83,71,Low,Medium,High,Technology,1,UI/UX Designer
+77,83,High,High,Low,Technology,2,Backend Developer
+85,74,High,High,Low,Technology,0,DevOps Engineer (Junior)
+77,76,High,Medium,Low,Technology,1,Data Scientist (Junior)
+82,92,High,High,Low,Technology,2,Cloud Engineer (Junior)
+81,82,Low,Medium,High,Technology,3,UI/UX Designer
+77,91,High,Medium,Low,Technology,1,Backend Developer
+93,83,High,Medium,Low,Technology,3,Software Engineer
+74,84,Low,High,High,Technology,1,UI/UX Designer
+93,75,High,Medium,Low,Technology,3,Cyber Security Analyst
+85,83,Medium,High,High,Technology,2,Frontend Developer
+92,72,Medium,Medium,Low,Technology,2,QA Engineer
+94,79,Medium,Medium,Low,Technology,0,Data Analyst
+77,71,Medium,High,High,Technology,0,Frontend Developer
+87,81,High,High,Low,Technology,1,DevOps Engineer (Junior)
+80,87,Medium,High,High,Technology,1,Frontend Developer
+79,86,High,High,Low,Technology,2,Backend Developer
+90,73,High,Medium,Low,Technology,0,Data Scientist (Junior)
+78,92,Medium,Medium,Low,Technology,1,Junior Software Engineer
+72,88,Low,Medium,High,Technology,0,UI/UX Designer
+94,84,Medium,Medium,Low,Technology,0,Data Analyst
+84,86,Medium,High,Low,Technology,0,Junior Software Engineer
+82,77,High,Medium,Low,Technology,2,Data Scientist (Junior)
+80,85,High,High,Low,Technology,1,Software Engineer
+88,81,Low,High,High,Technology,4,UI/UX Designer
+94,82,High,High,Low,Technology,2,ML Engineer (Junior)
+87,95,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+86,71,High,Medium,Low,Technology,0,Backend Developer
+94,84,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+85,79,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+79,85,Low,High,High,Technology,2,UI/UX Designer
+93,76,Low,Medium,High,Technology,1,UI/UX Designer
+91,81,High,High,Low,Technology,0,Backend Developer
+94,89,High,High,Low,Technology,0,Data Scientist (Junior)
+88,89,High,Medium,Low,Technology,0,Data Scientist (Junior)
+75,79,Medium,Medium,Low,Technology,5,Junior Software Engineer
+84,95,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+75,83,High,Medium,Low,Technology,1,Software Engineer
+93,78,Low,Medium,High,Technology,1,UI/UX Designer
+77,89,Medium,High,Low,Technology,1,Data Analyst
+71,82,Medium,High,Low,Technology,1,QA Engineer
+92,90,High,Medium,Low,Technology,1,ML Engineer (Junior)
+79,85,Medium,Medium,High,Technology,0,Frontend Developer
+85,91,High,Medium,Low,Technology,0,Cyber Security Analyst
+85,80,High,High,Low,Technology,0,Cyber Security Analyst
+83,75,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+75,95,High,High,Low,Technology,4,Cyber Security Analyst
+72,77,High,Medium,Low,Technology,2,Software Engineer
+89,91,High,High,Low,Technology,1,Data Scientist (Junior)
+88,74,High,High,Low,Technology,3,ML Engineer (Junior)
+83,82,Medium,Medium,Low,Technology,0,QA Engineer
+77,94,High,Medium,Low,Technology,1,Backend Developer
+87,87,High,High,Low,Technology,1,Data Scientist (Junior)
+80,84,High,Medium,Low,Technology,2,Software Engineer
+89,89,High,High,Low,Technology,0,Cloud Engineer (Junior)
+89,84,Medium,Medium,Medium,Technology,1,Web Developer
+92,91,Medium,Medium,Low,Technology,0,QA Engineer
+87,87,Medium,Medium,Medium,Technology,2,Web Developer
+93,91,Low,Medium,High,Technology,0,UI/UX Designer
+74,94,High,Medium,Low,Technology,1,Cyber Security Analyst
+70,75,Medium,High,Low,Technology,3,QA Engineer
+78,72,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+89,81,High,Medium,Low,Technology,1,Data Scientist (Junior)
+70,86,High,Medium,Low,Technology,0,Backend Developer
+79,73,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+83,71,Medium,High,Low,Technology,1,Junior Software Engineer
+77,84,High,Medium,Low,Technology,0,Backend Developer
+75,83,Low,Medium,High,Technology,2,UI/UX Designer
+83,93,Medium,High,Low,Technology,0,QA Engineer
+86,80,Low,Medium,High,Technology,3,UI/UX Designer
+83,70,Low,Medium,High,Technology,0,UI/UX Designer
+71,77,Medium,High,Medium,Technology,0,Web Developer
+83,93,High,Medium,Low,Technology,3,Cyber Security Analyst
+86,73,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+75,87,High,High,Low,Technology,0,ML Engineer (Junior)
+87,93,Medium,High,Low,Technology,1,Junior Software Engineer
+72,93,Medium,Medium,Low,Technology,3,Junior Software Engineer
+82,84,High,High,Low,Technology,1,Cloud Engineer (Junior)
+76,94,High,High,Low,Technology,0,Cyber Security Analyst
+70,95,High,High,Low,Technology,0,DevOps Engineer (Junior)
+95,86,High,High,Low,Technology,1,ML Engineer (Junior)
+80,71,Medium,High,Medium,Technology,1,Web Developer
+93,79,Medium,High,High,Technology,2,Frontend Developer
+72,95,High,Medium,Low,Technology,0,ML Engineer (Junior)
+75,85,High,Medium,Low,Technology,0,Data Scientist (Junior)
+74,74,Medium,High,Low,Technology,0,Data Analyst
+76,95,Medium,Medium,Low,Technology,0,Data Analyst
+72,90,Medium,High,Medium,Technology,3,Web Developer
+90,82,High,High,Low,Technology,0,DevOps Engineer (Junior)
+84,73,Medium,Medium,Low,Technology,0,QA Engineer
+76,79,Medium,High,High,Technology,1,Frontend Developer
+73,74,Medium,Medium,Low,Technology,1,Junior Software Engineer
+81,72,Medium,High,Medium,Technology,0,Web Developer
+84,94,Medium,High,Low,Technology,1,Junior Software Engineer
+77,87,Medium,Medium,High,Technology,1,Frontend Developer
+83,72,High,Medium,Low,Technology,0,ML Engineer (Junior)
+74,73,Low,Medium,High,Technology,2,UI/UX Designer
+95,76,Medium,Medium,Low,Technology,0,QA Engineer
+80,86,Medium,Medium,Low,Technology,0,QA Engineer
+82,80,High,Medium,Low,Technology,1,Software Engineer
+85,88,High,Medium,Low,Technology,2,Cyber Security Analyst
+80,94,High,High,Low,Technology,0,ML Engineer (Junior)
+79,72,Medium,Medium,Low,Technology,0,Junior Software Engineer
+91,75,High,High,Low,Technology,0,DevOps Engineer (Junior)
+80,79,Medium,High,Low,Technology,1,QA Engineer
+80,90,Medium,High,Low,Technology,1,Junior Software Engineer
+88,71,Medium,High,Low,Technology,0,Junior Software Engineer
+73,71,High,Medium,Low,Technology,1,Backend Developer
+89,88,High,High,Low,Technology,1,Cyber Security Analyst
+80,78,High,High,Low,Technology,1,ML Engineer (Junior)
+88,90,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+70,74,Medium,High,Medium,Technology,2,Web Developer
+86,79,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+71,72,Medium,High,Low,Technology,1,Junior Software Engineer
+75,80,Medium,High,Low,Technology,0,Junior Software Engineer
+87,73,Medium,High,Low,Technology,1,QA Engineer
+91,75,High,High,Low,Technology,3,Backend Developer
+89,94,Low,High,High,Technology,0,UI/UX Designer
+74,82,Medium,High,Medium,Technology,0,Web Developer
+82,85,High,High,Low,Technology,4,DevOps Engineer (Junior)
+75,74,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+84,90,Medium,Medium,High,Technology,0,Frontend Developer
+75,75,High,Medium,Low,Technology,0,Cyber Security Analyst
+88,70,High,High,Low,Technology,0,DevOps Engineer (Junior)
+95,86,High,Medium,Low,Technology,0,ML Engineer (Junior)
+85,74,Medium,Medium,Medium,Technology,1,Web Developer
+73,75,Low,High,High,Technology,0,UI/UX Designer
+85,93,Low,High,High,Technology,0,UI/UX Designer
+87,83,Medium,High,High,Technology,0,Frontend Developer
+75,76,High,Medium,Low,Technology,4,Backend Developer
+91,81,Medium,High,Low,Technology,2,Data Analyst
+84,92,High,Medium,Low,Technology,0,Data Scientist (Junior)
+73,78,High,High,Low,Technology,1,Backend Developer
+75,82,Low,Medium,High,Technology,0,UI/UX Designer
+86,78,High,Medium,Low,Technology,1,Backend Developer
+73,83,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+90,77,Medium,Medium,Low,Technology,3,QA Engineer
+90,70,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+74,95,Low,Medium,High,Technology,4,UI/UX Designer
+81,87,Medium,High,Low,Technology,2,Junior Software Engineer
+94,80,High,Medium,Low,Technology,1,ML Engineer (Junior)
+94,74,Medium,High,Low,Technology,0,Data Analyst
+91,75,High,Medium,Low,Technology,1,Data Scientist (Junior)
+77,76,High,High,Low,Technology,0,Cyber Security Analyst
+94,93,High,Medium,Low,Technology,1,Data Scientist (Junior)
+85,76,High,High,Low,Technology,0,Software Engineer
+72,83,Medium,Medium,High,Technology,0,Frontend Developer
+70,71,Low,High,High,Technology,2,UI/UX Designer
+82,89,Medium,High,High,Technology,1,Frontend Developer
+76,70,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+79,85,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+75,84,High,Medium,Low,Technology,1,Backend Developer
+88,89,High,Medium,Low,Technology,4,Cyber Security Analyst
+70,92,Medium,High,Low,Technology,1,Data Analyst
+70,74,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+76,89,Medium,High,High,Technology,1,Frontend Developer
+72,93,High,High,Low,Technology,2,Data Scientist (Junior)
+75,76,High,High,Low,Technology,1,ML Engineer (Junior)
+82,86,High,Medium,Low,Technology,1,ML Engineer (Junior)
+78,83,High,High,Low,Technology,4,Data Scientist (Junior)
+87,90,High,Medium,Low,Technology,2,Software Engineer
+91,86,High,High,Low,Technology,0,Software Engineer
+90,77,High,Medium,Low,Technology,0,Data Scientist (Junior)
+92,85,Medium,High,Low,Technology,1,QA Engineer
+78,95,High,Medium,Low,Technology,4,ML Engineer (Junior)
+95,76,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+81,76,High,High,Low,Technology,0,ML Engineer (Junior)
+89,90,Medium,Medium,Low,Technology,3,Junior Software Engineer
+84,72,Low,High,High,Technology,4,UI/UX Designer
+78,73,High,High,Low,Technology,0,Backend Developer
+79,78,Low,Medium,High,Technology,2,UI/UX Designer
+79,91,Low,Medium,High,Technology,0,UI/UX Designer
+84,70,High,High,Low,Technology,0,Backend Developer
+88,85,Medium,Medium,Low,Technology,0,QA Engineer
+78,85,Low,Medium,High,Technology,3,UI/UX Designer
+86,80,High,High,Low,Technology,3,Software Engineer
+76,90,High,High,Low,Technology,1,DevOps Engineer (Junior)
+85,70,High,Medium,Low,Technology,0,Data Scientist (Junior)
+82,86,Medium,High,Low,Technology,1,Data Analyst
+83,89,Medium,Medium,High,Technology,1,Frontend Developer
+80,78,High,High,Low,Technology,0,Cyber Security Analyst
+79,89,High,High,Low,Technology,0,Cloud Engineer (Junior)
+89,94,Medium,Medium,Medium,Technology,1,Web Developer
+73,73,High,Medium,Low,Technology,0,Cyber Security Analyst
+82,85,Low,Medium,High,Technology,1,UI/UX Designer
+72,88,Medium,High,High,Technology,3,Frontend Developer
+81,93,High,High,Low,Technology,1,ML Engineer (Junior)
+72,81,High,High,Low,Technology,4,Cyber Security Analyst
+92,84,High,High,Low,Technology,0,ML Engineer (Junior)
+90,93,High,High,Low,Technology,0,Software Engineer
+86,88,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+92,88,Medium,Medium,Low,Technology,1,QA Engineer
+71,82,Medium,Medium,Low,Technology,2,Data Analyst
+89,78,High,High,Low,Technology,1,ML Engineer (Junior)
+93,77,High,High,Low,Technology,1,Software Engineer
+75,77,Medium,High,Low,Technology,0,Junior Software Engineer
+78,94,High,High,Low,Technology,1,Backend Developer
+85,73,High,Medium,Low,Technology,0,Backend Developer
+88,76,Medium,Medium,Low,Technology,1,Junior Software Engineer
+71,84,High,High,Low,Technology,1,Backend Developer
+80,76,Low,Medium,High,Technology,5,UI/UX Designer
+77,87,Medium,Medium,Low,Technology,0,QA Engineer
+90,82,High,Medium,Low,Technology,1,Software Engineer
+90,93,Low,Medium,High,Technology,2,UI/UX Designer
+91,78,Medium,High,Low,Technology,2,Junior Software Engineer
+74,93,High,High,Low,Technology,2,Software Engineer
+91,76,Medium,High,Low,Technology,0,Data Analyst
+92,79,High,High,Low,Technology,0,Cyber Security Analyst
+91,81,High,High,Low,Technology,0,Cloud Engineer (Junior)
+77,82,Medium,Medium,Medium,Technology,0,Web Developer
+95,93,Medium,Medium,Low,Technology,0,Data Analyst
+72,75,Medium,High,Low,Technology,0,Junior Software Engineer
+83,93,High,High,Low,Technology,0,Cyber Security Analyst
+93,74,High,High,Low,Technology,2,ML Engineer (Junior)
+80,75,High,High,Low,Technology,2,Software Engineer
+95,76,Medium,High,High,Technology,0,Frontend Developer
+89,88,High,High,Low,Technology,1,Software Engineer
+75,85,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+83,90,High,Medium,Low,Technology,4,ML Engineer (Junior)
+77,77,Medium,Medium,Low,Technology,1,Data Analyst
+81,93,High,High,Low,Technology,2,Backend Developer
+92,94,Medium,Medium,Medium,Technology,1,Web Developer
+71,95,Medium,High,High,Technology,1,Frontend Developer
+90,86,Medium,High,Low,Technology,1,Junior Software Engineer
+74,77,High,Medium,Low,Technology,0,Data Scientist (Junior)
+85,78,Medium,High,Low,Technology,3,Data Analyst
+76,71,Low,Medium,High,Technology,1,UI/UX Designer
+95,87,High,High,Low,Technology,0,Software Engineer
+95,73,High,Medium,Low,Technology,2,Software Engineer
+93,74,Medium,High,Low,Technology,0,Junior Software Engineer
+80,81,Medium,High,Low,Technology,0,QA Engineer
+83,79,High,High,Low,Technology,1,Cloud Engineer (Junior)
+71,81,High,High,Low,Technology,0,Cloud Engineer (Junior)
+84,85,High,High,Low,Technology,0,Data Scientist (Junior)
+86,84,Medium,High,High,Technology,2,Frontend Developer
+79,93,Low,Medium,High,Technology,2,UI/UX Designer
+81,82,Medium,High,Low,Technology,3,QA Engineer
+90,75,Medium,Medium,Low,Technology,0,Data Analyst
+81,80,Medium,Medium,Low,Technology,0,Junior Software Engineer
+87,80,High,Medium,Low,Technology,0,ML Engineer (Junior)
+72,76,High,High,Low,Technology,2,Software Engineer
+85,92,Medium,High,Medium,Technology,1,Web Developer
+87,73,High,High,Low,Technology,1,ML Engineer (Junior)
+88,86,High,Medium,Low,Technology,0,Data Scientist (Junior)
+70,78,High,Medium,Low,Technology,0,Data Scientist (Junior)
+74,87,High,High,Low,Technology,4,Cyber Security Analyst
+75,77,Low,Medium,High,Technology,2,UI/UX Designer
+74,74,High,High,Low,Technology,1,Data Scientist (Junior)
+95,77,Medium,Medium,Medium,Technology,0,Web Developer
+72,93,Medium,Medium,Low,Technology,2,Data Analyst
+75,84,High,Medium,Low,Technology,0,Data Scientist (Junior)
+70,88,Low,High,High,Technology,1,UI/UX Designer
+81,93,High,Medium,Low,Technology,1,ML Engineer (Junior)
+84,95,Medium,Medium,Low,Technology,0,Data Analyst
+90,88,Medium,High,Low,Technology,0,Data Analyst
+77,71,Medium,High,High,Technology,0,Frontend Developer
+91,85,Medium,Medium,Low,Technology,0,Junior Software Engineer
+87,70,Medium,High,Medium,Technology,3,Web Developer
+91,72,High,High,Low,Technology,0,Software Engineer
+89,86,High,High,Low,Technology,1,DevOps Engineer (Junior)
+94,89,Medium,High,Low,Technology,2,QA Engineer
+81,93,Medium,Medium,High,Technology,0,Frontend Developer
+91,78,Low,Medium,High,Technology,1,UI/UX Designer
+81,95,High,Medium,Low,Technology,1,Cyber Security Analyst
+87,85,High,High,Low,Technology,5,Backend Developer
+78,77,Medium,High,Low,Technology,3,QA Engineer
+84,88,Low,Medium,High,Technology,1,UI/UX Designer
+74,73,High,High,Low,Technology,0,Backend Developer
+78,77,High,High,Low,Technology,1,ML Engineer (Junior)
+70,94,High,Medium,Low,Technology,1,Data Scientist (Junior)
+84,84,High,High,Low,Technology,2,Cyber Security Analyst
+92,84,High,High,Low,Technology,0,Software Engineer
+88,70,Medium,High,High,Technology,3,Frontend Developer
+89,79,Low,Medium,High,Technology,1,UI/UX Designer
+74,70,High,Medium,Low,Technology,2,Cyber Security Analyst
+81,91,High,Medium,Low,Technology,0,Cyber Security Analyst
+76,91,Medium,Medium,Low,Technology,3,Junior Software Engineer
+76,84,Medium,Medium,High,Technology,2,Frontend Developer
+70,88,Medium,High,Low,Technology,0,QA Engineer
+95,93,High,High,Low,Technology,0,Data Scientist (Junior)
+75,82,Medium,Medium,Low,Technology,0,QA Engineer
+94,82,Medium,Medium,High,Technology,1,Frontend Developer
+92,86,Medium,High,Low,Technology,0,Junior Software Engineer
+72,89,High,Medium,Low,Technology,0,Backend Developer
+77,70,High,Medium,Low,Technology,5,Cyber Security Analyst
+76,77,Medium,Medium,High,Technology,3,Frontend Developer
+90,76,High,High,Low,Technology,1,Backend Developer
+88,94,Medium,High,Low,Technology,1,Junior Software Engineer
+93,95,Medium,Medium,Low,Technology,0,QA Engineer
+92,83,High,Medium,Low,Technology,0,ML Engineer (Junior)
+85,80,Medium,High,Low,Technology,0,QA Engineer
+93,71,High,High,Low,Technology,0,ML Engineer (Junior)
+79,85,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+75,78,High,Medium,Low,Technology,2,Software Engineer
+78,91,High,High,Low,Technology,1,Cyber Security Analyst
+77,78,High,Medium,Low,Technology,3,Software Engineer
+92,78,Medium,Medium,Low,Technology,1,Junior Software Engineer
+85,89,Medium,High,Low,Technology,1,Data Analyst
+82,73,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+81,72,High,Medium,Low,Technology,1,Software Engineer
+93,78,Low,Medium,High,Technology,0,UI/UX Designer
+93,87,High,High,Low,Technology,0,Cyber Security Analyst
+83,95,Medium,High,Low,Technology,2,Data Analyst
+90,87,High,High,Low,Technology,1,DevOps Engineer (Junior)
+87,80,High,Medium,Low,Technology,0,Backend Developer
+83,84,High,High,Low,Technology,0,Cyber Security Analyst
+80,86,Medium,High,High,Technology,0,Frontend Developer
+70,79,Medium,High,High,Technology,1,Frontend Developer
+87,84,High,Medium,Low,Technology,1,Cyber Security Analyst
+80,80,High,High,Low,Technology,0,Cyber Security Analyst
+92,85,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+73,75,High,High,Low,Technology,1,Software Engineer
+83,81,Low,Medium,High,Technology,0,UI/UX Designer
+71,95,High,Medium,Low,Technology,3,Backend Developer
+80,94,Medium,Medium,Low,Technology,0,QA Engineer
+71,92,Low,High,High,Technology,0,UI/UX Designer
+85,75,Medium,High,Medium,Technology,3,Web Developer
+80,76,High,High,Low,Technology,3,Cloud Engineer (Junior)
+89,81,Medium,Medium,High,Technology,0,Frontend Developer
+77,93,High,High,Low,Technology,2,Cloud Engineer (Junior)
+87,90,High,Medium,Low,Technology,1,Software Engineer
+80,85,Low,Medium,High,Technology,1,UI/UX Designer
+84,94,High,Medium,Low,Technology,3,Software Engineer
+90,81,Medium,High,High,Technology,0,Frontend Developer
+87,87,High,High,Low,Technology,1,Software Engineer
+81,82,High,High,Low,Technology,1,Backend Developer
+90,71,Medium,High,Low,Technology,1,QA Engineer
+81,78,High,High,Low,Technology,0,Backend Developer
+73,70,High,High,Low,Technology,1,Cyber Security Analyst
+93,74,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+95,94,Low,High,High,Technology,0,UI/UX Designer
+88,84,Medium,High,Medium,Technology,1,Web Developer
+89,86,Medium,Medium,High,Technology,3,Frontend Developer
+84,88,High,High,Low,Technology,1,Software Engineer
+78,79,Medium,Medium,Low,Technology,2,QA Engineer
+81,93,High,Medium,Low,Technology,0,Backend Developer
+81,79,High,Medium,Low,Technology,3,ML Engineer (Junior)
+74,81,High,Medium,Low,Technology,5,Data Scientist (Junior)
+91,85,High,Medium,Low,Technology,0,Software Engineer
+83,89,Medium,Medium,Medium,Technology,1,Web Developer
+83,87,High,High,Low,Technology,1,Backend Developer
+90,71,High,High,Low,Technology,1,Data Scientist (Junior)
+74,91,High,High,Low,Technology,2,Data Scientist (Junior)
+74,76,High,Medium,Low,Technology,0,Software Engineer
+84,71,High,Medium,Low,Technology,1,Cyber Security Analyst
+79,89,High,Medium,Low,Technology,1,Data Scientist (Junior)
+90,73,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+72,89,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+70,85,High,Medium,Low,Technology,0,Software Engineer
+79,83,High,Medium,Low,Technology,0,Data Scientist (Junior)
+90,75,High,High,Low,Technology,4,Backend Developer
+93,79,High,Medium,Low,Technology,1,ML Engineer (Junior)
+92,95,Medium,Medium,Low,Technology,0,Data Analyst
+84,91,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+73,91,Medium,Medium,Medium,Technology,1,Web Developer
+88,80,Medium,Medium,High,Technology,1,Frontend Developer
+82,76,Medium,Medium,Low,Technology,3,QA Engineer
+83,90,High,High,Low,Technology,3,DevOps Engineer (Junior)
+80,83,Medium,Medium,Medium,Technology,1,Web Developer
+89,91,Medium,High,Medium,Technology,1,Web Developer
+75,83,Medium,Medium,Medium,Technology,2,Web Developer
+81,70,Medium,Medium,Low,Technology,0,Junior Software Engineer
+78,78,Medium,Medium,Low,Technology,0,Junior Software Engineer
+92,93,High,High,Low,Technology,0,Cloud Engineer (Junior)
+76,82,Medium,Medium,Low,Technology,0,Data Analyst
+86,71,High,Medium,Low,Technology,1,Data Scientist (Junior)
+77,95,High,Medium,Low,Technology,0,Data Scientist (Junior)
+74,72,High,High,Low,Technology,1,ML Engineer (Junior)
+70,84,Medium,Medium,Low,Technology,3,Junior Software Engineer
+79,84,High,High,Low,Technology,0,Software Engineer
+83,80,Low,High,High,Technology,1,UI/UX Designer
+83,93,Low,High,High,Technology,1,UI/UX Designer
+70,84,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+71,86,High,Medium,Low,Technology,2,Backend Developer
+90,84,High,High,Low,Technology,0,Data Scientist (Junior)
+94,76,High,High,Low,Technology,0,Software Engineer
+81,71,High,High,Low,Technology,0,ML Engineer (Junior)
+81,79,High,High,Low,Technology,0,Backend Developer
+73,92,High,Medium,Low,Technology,3,Backend Developer
+72,80,High,High,Low,Technology,0,Software Engineer
+92,79,Medium,Medium,Low,Technology,0,Junior Software Engineer
+90,82,High,High,Low,Technology,2,DevOps Engineer (Junior)
+73,93,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+86,75,Medium,High,High,Technology,1,Frontend Developer
+78,83,High,High,Low,Technology,0,Cyber Security Analyst
+93,84,High,High,Low,Technology,1,Software Engineer
+95,91,Medium,High,High,Technology,2,Frontend Developer
+81,80,Medium,Medium,Medium,Technology,0,Web Developer
+80,80,High,Medium,Low,Technology,0,Data Scientist (Junior)
+78,86,High,High,Low,Technology,0,Data Scientist (Junior)
+75,79,High,Medium,Low,Technology,0,Software Engineer
+93,84,High,High,Low,Technology,2,Cloud Engineer (Junior)
+82,80,High,Medium,Low,Technology,1,Backend Developer
+81,86,Low,Medium,High,Technology,1,UI/UX Designer
+86,82,Low,Medium,High,Technology,1,UI/UX Designer
+80,93,High,High,Low,Technology,2,Cyber Security Analyst
+73,77,Medium,Medium,Low,Technology,0,Data Analyst
+83,85,High,Medium,Low,Technology,0,Software Engineer
+79,71,High,Medium,Low,Technology,1,Data Scientist (Junior)
+86,72,High,High,Low,Technology,5,Cyber Security Analyst
+86,91,Medium,High,Low,Technology,0,QA Engineer
+71,80,Medium,Medium,Low,Technology,4,Junior Software Engineer
+85,86,Medium,Medium,High,Technology,0,Frontend Developer
+91,71,Medium,High,Low,Technology,2,Junior Software Engineer
+90,81,Medium,Medium,Low,Technology,0,Junior Software Engineer
+80,94,Low,Medium,High,Technology,0,UI/UX Designer
+82,80,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+77,70,High,Medium,Low,Technology,2,Cyber Security Analyst
+78,70,Medium,High,Low,Technology,1,Junior Software Engineer
+75,93,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+91,93,Medium,Medium,Low,Technology,0,QA Engineer
+83,70,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+86,76,High,Medium,Low,Technology,1,Cyber Security Analyst
+70,77,Medium,Medium,Low,Technology,2,Junior Software Engineer
+70,74,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+79,85,Medium,High,Low,Technology,4,QA Engineer
+89,78,High,High,Low,Technology,0,Software Engineer
+79,94,High,Medium,Low,Technology,0,Cyber Security Analyst
+71,88,Medium,Medium,Medium,Technology,0,Web Developer
+95,79,Medium,High,Medium,Technology,3,Web Developer
+85,87,High,Medium,Low,Technology,5,Cyber Security Analyst
+88,82,Medium,High,Low,Technology,1,QA Engineer
+92,80,High,High,Low,Technology,0,DevOps Engineer (Junior)
+72,77,High,High,Low,Technology,3,Cloud Engineer (Junior)
+89,78,Medium,Medium,Low,Technology,0,QA Engineer
+71,82,Medium,High,Low,Technology,0,Junior Software Engineer
+87,70,High,High,Low,Technology,1,Backend Developer
+91,73,Medium,Medium,High,Technology,1,Frontend Developer
+78,85,Medium,High,High,Technology,0,Frontend Developer
+90,87,Low,High,High,Technology,3,UI/UX Designer
+90,87,Low,High,High,Technology,0,UI/UX Designer
+84,76,Medium,Medium,Medium,Technology,1,Web Developer
+75,73,High,Medium,Low,Technology,1,ML Engineer (Junior)
+81,88,Low,High,High,Technology,2,UI/UX Designer
+83,74,High,High,Low,Technology,0,Software Engineer
+91,74,Medium,Medium,High,Technology,0,Frontend Developer
+93,89,High,High,Low,Technology,3,Software Engineer
+87,75,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+87,87,High,High,Low,Technology,2,Backend Developer
+79,85,High,Medium,Low,Technology,1,Backend Developer
+78,80,Medium,Medium,Medium,Technology,1,Web Developer
+75,86,Low,Medium,High,Technology,5,UI/UX Designer
+72,95,High,High,Low,Technology,0,Cloud Engineer (Junior)
+72,95,Medium,High,High,Technology,0,Frontend Developer
+89,85,Medium,Medium,Low,Technology,0,QA Engineer
+83,74,Medium,High,Low,Technology,0,Junior Software Engineer
+78,82,High,High,Low,Technology,2,Backend Developer
+88,71,High,High,Low,Technology,2,Software Engineer
+70,94,Medium,High,Low,Technology,0,QA Engineer
+74,80,High,Medium,Low,Technology,3,ML Engineer (Junior)
+82,89,High,High,Low,Technology,0,Cloud Engineer (Junior)
+76,78,High,High,Low,Technology,1,Backend Developer
+75,77,High,Medium,Low,Technology,1,ML Engineer (Junior)
+76,89,Medium,Medium,Medium,Technology,1,Web Developer
+94,85,Medium,Medium,Low,Technology,2,Junior Software Engineer
+89,79,Medium,Medium,Low,Technology,1,Data Analyst
+91,78,High,Medium,Low,Technology,3,ML Engineer (Junior)
+91,93,High,Medium,Low,Technology,3,Software Engineer
+90,82,Medium,Medium,Low,Technology,4,Junior Software Engineer
+94,76,Medium,High,Low,Technology,0,Data Analyst
+84,72,Medium,High,Low,Technology,1,Junior Software Engineer
+72,77,High,High,Low,Technology,1,Software Engineer
+79,95,Medium,High,Low,Technology,3,Data Analyst
+86,90,Medium,Medium,High,Technology,0,Frontend Developer
+79,86,High,Medium,Low,Technology,2,Backend Developer
+71,91,High,High,Low,Technology,0,ML Engineer (Junior)
+83,71,High,High,Low,Technology,0,ML Engineer (Junior)
+91,95,High,Medium,Low,Technology,2,Data Scientist (Junior)
+93,89,Medium,High,Low,Technology,4,QA Engineer
+78,91,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+79,79,Medium,Medium,Low,Technology,0,Data Analyst
+90,88,Medium,High,Low,Technology,0,Data Analyst
+85,79,High,High,Low,Technology,0,Backend Developer
+87,71,High,Medium,Low,Technology,2,Backend Developer
+74,88,High,Medium,Low,Technology,0,ML Engineer (Junior)
+79,70,Low,High,High,Technology,2,UI/UX Designer
+82,91,Medium,High,Low,Technology,0,QA Engineer
+78,80,Medium,High,High,Technology,0,Frontend Developer
+77,94,Low,Medium,High,Technology,1,UI/UX Designer
+90,70,High,Medium,Low,Technology,5,DevOps Engineer (Junior)
+93,72,Medium,High,Low,Technology,2,QA Engineer
+70,82,Medium,High,Low,Technology,0,Junior Software Engineer
+83,82,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+76,83,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+77,82,Medium,Medium,Low,Technology,0,QA Engineer
+93,90,Medium,High,Low,Technology,0,QA Engineer
+83,94,High,High,Low,Technology,1,Data Scientist (Junior)
+83,85,High,Medium,Low,Technology,0,ML Engineer (Junior)
+75,87,Low,Medium,High,Technology,2,UI/UX Designer
+94,77,Medium,Medium,Low,Technology,0,Data Analyst
+93,91,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+90,92,High,Medium,Low,Technology,1,ML Engineer (Junior)
+88,91,High,Medium,Low,Technology,1,Backend Developer
+86,95,High,Medium,Low,Technology,2,Backend Developer
+84,92,Medium,High,Low,Technology,3,Junior Software Engineer
+84,90,High,High,Low,Technology,5,Data Scientist (Junior)
+81,95,High,Medium,Low,Technology,1,Software Engineer
+83,92,High,High,Low,Technology,1,Cyber Security Analyst
+75,81,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+86,78,Medium,Medium,High,Technology,2,Frontend Developer
+74,75,Low,High,High,Technology,1,UI/UX Designer
+84,92,Low,High,High,Technology,2,UI/UX Designer
+71,94,High,High,Low,Technology,1,Backend Developer
+89,88,High,High,Low,Technology,0,Cloud Engineer (Junior)
+73,89,Medium,High,Low,Technology,1,Data Analyst
+76,79,Medium,Medium,Low,Technology,0,QA Engineer
+87,81,High,High,Low,Technology,0,DevOps Engineer (Junior)
+95,76,Medium,Medium,Medium,Technology,0,Web Developer
+84,77,Medium,High,Low,Technology,2,QA Engineer
+86,70,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+79,71,Medium,Medium,Low,Technology,0,Data Analyst
+89,84,Medium,High,High,Technology,1,Frontend Developer
+77,84,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+87,73,Low,High,High,Technology,1,UI/UX Designer
+88,92,Medium,Medium,Low,Technology,1,QA Engineer
+81,83,High,High,Low,Technology,1,Cyber Security Analyst
+86,81,High,Medium,Low,Technology,3,Data Scientist (Junior)
+70,88,Medium,Medium,Medium,Technology,1,Web Developer
+88,80,Medium,Medium,Medium,Technology,0,Web Developer
+87,74,High,Medium,Low,Technology,3,Data Scientist (Junior)
+74,85,Medium,Medium,High,Technology,0,Frontend Developer
+86,78,High,High,Low,Technology,0,Cloud Engineer (Junior)
+71,80,High,High,Low,Technology,0,ML Engineer (Junior)
+90,92,Medium,High,Low,Technology,1,Data Analyst
+79,76,High,Medium,Low,Technology,3,Backend Developer
+85,85,High,High,Low,Technology,0,Software Engineer
+77,87,High,Medium,Low,Technology,2,Cyber Security Analyst
+83,88,Medium,Medium,Low,Technology,1,QA Engineer
+92,85,Low,High,High,Technology,0,UI/UX Designer
+83,76,Medium,Medium,Low,Technology,1,QA Engineer
+71,82,High,High,Low,Technology,3,Cyber Security Analyst
+85,95,Medium,High,Low,Technology,0,Junior Software Engineer
+90,76,High,High,Low,Technology,3,Backend Developer
+76,71,Medium,Medium,Medium,Technology,0,Web Developer
+70,87,High,High,Low,Technology,2,Cloud Engineer (Junior)
+81,71,High,High,Low,Technology,2,Backend Developer
+85,86,Medium,High,High,Technology,3,Frontend Developer
+85,86,High,Medium,Low,Technology,1,Data Scientist (Junior)
+91,70,Medium,Medium,Low,Technology,1,Junior Software Engineer
+79,87,Medium,High,Medium,Technology,2,Web Developer
+81,91,High,Medium,Low,Technology,1,Cyber Security Analyst
+70,80,Medium,High,Medium,Technology,3,Web Developer
+70,84,High,Medium,Low,Technology,5,Backend Developer
+86,84,High,High,Low,Technology,3,Backend Developer
+91,92,High,High,Low,Technology,0,Backend Developer
+91,82,High,Medium,Low,Technology,5,Cloud Engineer (Junior)
+80,78,Medium,Medium,Medium,Technology,1,Web Developer
+88,82,Medium,High,Medium,Technology,1,Web Developer
+94,72,High,Medium,Low,Technology,1,ML Engineer (Junior)
+88,74,Medium,Medium,Low,Technology,0,Data Analyst
+81,88,Medium,Medium,Medium,Technology,0,Web Developer
+93,71,Medium,High,High,Technology,2,Frontend Developer
+70,90,High,Medium,Low,Technology,0,Data Scientist (Junior)
+88,73,Medium,High,Low,Technology,2,QA Engineer
+72,86,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+94,73,High,Medium,Low,Technology,0,Software Engineer
+82,82,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+95,82,High,High,Low,Technology,0,ML Engineer (Junior)
+85,79,High,Medium,Low,Technology,3,Software Engineer
+78,73,Medium,High,Low,Technology,0,Data Analyst
+92,79,High,Medium,Low,Technology,1,Software Engineer
+84,72,Medium,Medium,Low,Technology,2,QA Engineer
+74,76,High,High,Low,Technology,1,Cloud Engineer (Junior)
+87,84,High,Medium,Low,Technology,0,ML Engineer (Junior)
+87,94,High,High,Low,Technology,1,Data Scientist (Junior)
+91,82,Medium,Medium,Low,Technology,1,Data Analyst
+76,70,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+88,82,High,Medium,Low,Technology,1,Software Engineer
+94,94,Medium,High,High,Technology,2,Frontend Developer
+70,91,High,Medium,Low,Technology,0,ML Engineer (Junior)
+73,80,High,Medium,Low,Technology,2,Software Engineer
+95,75,Medium,High,Medium,Technology,0,Web Developer
+89,94,Medium,High,Low,Technology,2,Junior Software Engineer
+80,89,Medium,High,High,Technology,1,Frontend Developer
+93,83,Medium,High,High,Technology,1,Frontend Developer
+90,93,Medium,Medium,Low,Technology,0,Data Analyst
+75,72,Medium,Medium,Low,Technology,2,Junior Software Engineer
+86,89,Low,Medium,High,Technology,1,UI/UX Designer
+71,70,Medium,Medium,Low,Technology,3,Junior Software Engineer
+79,82,Medium,High,Medium,Technology,5,Web Developer
+78,85,Medium,Medium,Medium,Technology,0,Web Developer
+80,81,Medium,Medium,Low,Technology,0,QA Engineer
+87,90,High,Medium,Low,Technology,1,ML Engineer (Junior)
+84,79,Low,Medium,High,Technology,0,UI/UX Designer
+90,87,Medium,Medium,Medium,Technology,1,Web Developer
+87,80,Medium,High,High,Technology,0,Frontend Developer
+78,72,Medium,Medium,Low,Technology,0,Data Analyst
+81,95,Medium,Medium,Medium,Technology,0,Web Developer
+84,80,High,High,Low,Technology,2,Cloud Engineer (Junior)
+76,70,Medium,Medium,Medium,Technology,1,Web Developer
+86,84,High,High,Low,Technology,1,Cyber Security Analyst
+90,94,High,High,Low,Technology,0,Data Scientist (Junior)
+80,77,Low,Medium,High,Technology,4,UI/UX Designer
+90,77,Low,Medium,High,Technology,3,UI/UX Designer
+71,80,Low,High,High,Technology,0,UI/UX Designer
+75,83,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+93,71,Medium,High,Low,Technology,1,Data Analyst
+90,70,High,Medium,Low,Technology,2,Backend Developer
+75,84,Medium,Medium,Low,Technology,0,Junior Software Engineer
+74,92,Medium,High,Low,Technology,0,Data Analyst
+74,72,Medium,High,Low,Technology,2,QA Engineer
+89,71,Low,High,High,Technology,3,UI/UX Designer
+74,91,High,Medium,Low,Technology,2,Backend Developer
+92,79,High,High,Low,Technology,1,Cyber Security Analyst
+88,70,High,High,Low,Technology,1,Data Scientist (Junior)
+90,81,Low,High,High,Technology,1,UI/UX Designer
+86,91,High,Medium,Low,Technology,1,Data Scientist (Junior)
+88,77,High,High,Low,Technology,2,Cloud Engineer (Junior)
+73,93,Medium,High,Low,Technology,1,Junior Software Engineer
+75,95,High,High,Low,Technology,1,DevOps Engineer (Junior)
+90,85,High,Medium,Low,Technology,0,ML Engineer (Junior)
+74,84,High,High,Low,Technology,2,Cyber Security Analyst
+75,80,Medium,Medium,Low,Technology,3,Data Analyst
+75,74,Low,Medium,High,Technology,1,UI/UX Designer
+72,80,High,Medium,Low,Technology,2,Software Engineer
+87,87,Medium,Medium,Low,Technology,2,Junior Software Engineer
+83,91,High,High,Low,Technology,2,DevOps Engineer (Junior)
+72,70,High,High,Low,Technology,0,Cyber Security Analyst
+85,83,High,High,Low,Technology,0,ML Engineer (Junior)
+76,83,High,Medium,Low,Technology,2,ML Engineer (Junior)
+76,82,High,Medium,Low,Technology,1,Cyber Security Analyst
+84,72,High,Medium,Low,Technology,1,Backend Developer
+88,80,Medium,High,Low,Technology,0,Data Analyst
+72,91,Medium,High,Low,Technology,3,Data Analyst
+94,75,Medium,Medium,High,Technology,1,Frontend Developer
+82,74,Medium,Medium,Low,Technology,0,Data Analyst
+86,82,High,High,Low,Technology,0,Data Scientist (Junior)
+95,92,Medium,High,Medium,Technology,4,Web Developer
+89,90,Medium,High,Low,Technology,0,Junior Software Engineer
+94,89,High,Medium,Low,Technology,1,Cyber Security Analyst
+72,90,Medium,Medium,High,Technology,0,Frontend Developer
+81,73,High,Medium,Low,Technology,0,Software Engineer
+76,78,High,High,Low,Technology,0,Cyber Security Analyst
+70,79,High,High,Low,Technology,1,DevOps Engineer (Junior)
+93,78,High,High,Low,Technology,2,Cloud Engineer (Junior)
+91,91,Medium,High,Low,Technology,1,Junior Software Engineer
+90,81,Medium,Medium,Low,Technology,1,Data Analyst
+89,76,High,Medium,Low,Technology,2,Software Engineer
+92,71,Medium,High,Low,Technology,0,Data Analyst
+92,85,High,Medium,Low,Technology,0,Cyber Security Analyst
+71,88,High,High,Low,Technology,3,Data Scientist (Junior)
+92,94,Medium,High,Low,Technology,1,Junior Software Engineer
+73,93,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+94,90,High,High,Low,Technology,1,Cloud Engineer (Junior)
+81,76,Medium,Medium,Medium,Technology,0,Web Developer
+92,74,Medium,High,High,Technology,0,Frontend Developer
+80,73,High,Medium,Low,Technology,1,Cyber Security Analyst
+94,73,Medium,Medium,Medium,Technology,0,Web Developer
+83,92,Low,Medium,High,Technology,0,UI/UX Designer
+87,94,Medium,Medium,Low,Technology,1,QA Engineer
+92,90,High,Medium,Low,Technology,2,Data Scientist (Junior)
+77,79,Medium,Medium,Medium,Technology,0,Web Developer
+70,90,Medium,Medium,Low,Technology,0,Data Analyst
+94,76,High,High,Low,Technology,0,Data Scientist (Junior)
+74,82,Medium,Medium,Low,Technology,2,QA Engineer
+75,83,High,Medium,Low,Technology,1,Software Engineer
+94,81,High,High,Low,Technology,0,Backend Developer
+73,73,High,Medium,Low,Technology,3,DevOps Engineer (Junior)
+78,88,High,High,Low,Technology,3,Cyber Security Analyst
+84,87,Medium,High,Low,Technology,2,Data Analyst
+71,77,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+77,79,Low,High,High,Technology,1,UI/UX Designer
+80,78,Medium,Medium,Low,Technology,0,Junior Software Engineer
+80,81,High,Medium,Low,Technology,5,Data Scientist (Junior)
+77,82,Medium,Medium,High,Technology,0,Frontend Developer
+71,71,High,Medium,Low,Technology,5,Backend Developer
+78,94,High,Medium,Low,Technology,0,ML Engineer (Junior)
+84,77,Medium,High,Low,Technology,0,QA Engineer
+84,72,Medium,High,Low,Technology,2,Junior Software Engineer
+88,74,Medium,Medium,Medium,Technology,0,Web Developer
+73,73,Medium,High,Low,Technology,3,Data Analyst
+73,91,High,Medium,Low,Technology,1,Backend Developer
+89,83,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+91,88,Medium,High,Low,Technology,0,Data Analyst
+81,76,Medium,Medium,Low,Technology,0,Data Analyst
+75,87,High,High,Low,Technology,1,Cyber Security Analyst
+92,95,High,Medium,Low,Technology,1,ML Engineer (Junior)
+87,70,High,High,Low,Technology,0,ML Engineer (Junior)
+84,89,High,High,Low,Technology,1,ML Engineer (Junior)
+85,90,Medium,Medium,Medium,Technology,3,Web Developer
+73,77,High,Medium,Low,Technology,3,DevOps Engineer (Junior)
+81,77,Medium,High,High,Technology,2,Frontend Developer
+71,79,High,High,Low,Technology,1,Data Scientist (Junior)
+94,83,Medium,High,Low,Technology,0,QA Engineer
+92,71,High,High,Low,Technology,0,Software Engineer
+88,90,High,Medium,Low,Technology,0,Backend Developer
+73,93,Low,High,High,Technology,1,UI/UX Designer
+90,75,High,Medium,Low,Technology,2,Data Scientist (Junior)
+86,78,Low,Medium,High,Technology,0,UI/UX Designer
+87,89,High,High,Low,Technology,0,Backend Developer
+82,73,High,High,Low,Technology,0,ML Engineer (Junior)
+91,74,Medium,High,High,Technology,0,Frontend Developer
+80,76,High,High,Low,Technology,1,Backend Developer
+91,82,High,Medium,Low,Technology,2,Software Engineer
+76,71,Low,High,High,Technology,2,UI/UX Designer
+93,72,High,Medium,Low,Technology,1,Backend Developer
+89,73,Medium,Medium,Medium,Technology,0,Web Developer
+72,77,Medium,High,Low,Technology,5,QA Engineer
+77,75,High,Medium,Low,Technology,0,Backend Developer
+74,93,Medium,Medium,Low,Technology,2,Junior Software Engineer
+72,93,High,High,Low,Technology,1,Data Scientist (Junior)
+76,88,High,Medium,Low,Technology,0,Backend Developer
+71,86,Medium,Medium,Low,Technology,3,Data Analyst
+79,72,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+86,73,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+88,77,High,Medium,Low,Technology,0,ML Engineer (Junior)
+73,77,Medium,High,High,Technology,0,Frontend Developer
+88,79,Medium,Medium,Low,Technology,0,Data Analyst
+83,76,High,High,Low,Technology,0,Cloud Engineer (Junior)
+81,95,Medium,Medium,High,Technology,4,Frontend Developer
+90,79,Medium,High,Low,Technology,1,Junior Software Engineer
+82,83,Medium,High,Low,Technology,1,QA Engineer
+82,82,High,Medium,Low,Technology,3,DevOps Engineer (Junior)
+94,82,Medium,High,Low,Technology,0,Data Analyst
+71,74,Low,High,High,Technology,0,UI/UX Designer
+81,93,High,Medium,Low,Technology,0,Data Scientist (Junior)
+78,95,High,Medium,Low,Technology,0,Data Scientist (Junior)
+78,70,Medium,High,High,Technology,1,Frontend Developer
+82,84,Medium,Medium,Low,Technology,1,Junior Software Engineer
+77,78,Medium,High,Low,Technology,1,Junior Software Engineer
+92,78,High,High,Low,Technology,1,Cloud Engineer (Junior)
+80,82,Medium,High,Low,Technology,5,QA Engineer
+91,86,Medium,Medium,High,Technology,0,Frontend Developer
+72,90,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+88,73,Low,High,High,Technology,0,UI/UX Designer
+74,87,Medium,High,Medium,Technology,1,Web Developer
+70,81,High,High,Low,Technology,2,ML Engineer (Junior)
+88,77,Medium,High,Low,Technology,0,Data Analyst
+83,93,High,High,Low,Technology,3,Cyber Security Analyst
+74,82,High,Medium,Low,Technology,0,Software Engineer
+70,85,Low,Medium,High,Technology,0,UI/UX Designer
+95,79,Medium,Medium,Medium,Technology,0,Web Developer
+87,79,Medium,Medium,High,Technology,1,Frontend Developer
+73,87,Medium,High,Low,Technology,0,Junior Software Engineer
+93,91,High,Medium,Low,Technology,0,Cyber Security Analyst
+74,89,Medium,Medium,Medium,Technology,1,Web Developer
+85,76,High,High,Low,Technology,1,Software Engineer
+84,74,High,High,Low,Technology,4,Cloud Engineer (Junior)
+72,74,Medium,High,Low,Technology,3,QA Engineer
+83,74,High,Medium,Low,Technology,1,Software Engineer
+75,71,Low,Medium,High,Technology,0,UI/UX Designer
+84,94,High,Medium,Low,Technology,3,Data Scientist (Junior)
+76,74,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+83,81,Medium,High,Low,Technology,0,QA Engineer
+72,92,Medium,High,Low,Technology,0,QA Engineer
+94,88,Medium,Medium,Low,Technology,1,Data Analyst
+83,81,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+89,76,High,High,Low,Technology,0,ML Engineer (Junior)
+84,85,Medium,Medium,Low,Technology,5,QA Engineer
+75,74,High,High,Low,Technology,1,Cloud Engineer (Junior)
+87,92,High,High,Low,Technology,1,Data Scientist (Junior)
+80,92,Medium,High,High,Technology,0,Frontend Developer
+93,79,High,Medium,Low,Technology,0,Data Scientist (Junior)
+76,72,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+95,74,High,High,Low,Technology,1,Backend Developer
+95,89,Low,High,High,Technology,0,UI/UX Designer
+82,73,Medium,Medium,Medium,Technology,0,Web Developer
+92,92,Medium,Medium,Low,Technology,1,Junior Software Engineer
+85,89,Medium,Medium,Medium,Technology,2,Web Developer
+71,80,Low,Medium,High,Technology,2,UI/UX Designer
+80,93,Medium,Medium,Low,Technology,0,QA Engineer
+77,86,Medium,High,Low,Technology,1,QA Engineer
+73,75,Medium,High,Low,Technology,3,QA Engineer
+70,86,Medium,High,High,Technology,0,Frontend Developer
+89,93,High,High,Low,Technology,2,ML Engineer (Junior)
+90,92,High,Medium,Low,Technology,0,Cyber Security Analyst
+88,78,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+77,93,Medium,Medium,Low,Technology,2,QA Engineer
+90,93,High,High,Low,Technology,0,Cloud Engineer (Junior)
+85,73,Low,Medium,High,Technology,2,UI/UX Designer
+94,88,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+95,84,Low,High,High,Technology,0,UI/UX Designer
+89,86,Medium,Medium,High,Technology,0,Frontend Developer
+76,90,Medium,High,Low,Technology,0,Data Analyst
+88,74,High,Medium,Low,Technology,1,Software Engineer
+73,80,Medium,High,Medium,Technology,0,Web Developer
+77,70,Medium,High,Low,Technology,0,QA Engineer
+91,87,Medium,High,Low,Technology,0,Data Analyst
+70,85,High,Medium,Low,Technology,3,Data Scientist (Junior)
+82,78,Low,High,High,Technology,0,UI/UX Designer
+79,87,High,Medium,Low,Technology,0,Cyber Security Analyst
+70,92,Medium,Medium,High,Technology,2,Frontend Developer
+80,81,Medium,Medium,High,Technology,4,Frontend Developer
+87,82,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+86,89,Medium,Medium,Medium,Technology,2,Web Developer
+85,77,High,High,Low,Technology,4,Backend Developer
+81,78,Low,High,High,Technology,1,UI/UX Designer
+71,82,High,High,Low,Technology,0,Backend Developer
+92,73,High,High,Low,Technology,3,Backend Developer
+78,83,Medium,High,Low,Technology,2,Data Analyst
+81,76,Medium,Medium,Low,Technology,0,Junior Software Engineer
+92,91,Medium,Medium,Low,Technology,0,Junior Software Engineer
+86,87,High,High,Low,Technology,0,DevOps Engineer (Junior)
+87,86,Medium,Medium,Low,Technology,0,Data Analyst
+87,70,High,Medium,Low,Technology,0,ML Engineer (Junior)
+82,85,High,Medium,Low,Technology,0,Software Engineer
+80,90,Medium,Medium,Medium,Technology,0,Web Developer
+86,76,High,Medium,Low,Technology,0,ML Engineer (Junior)
+94,94,Medium,Medium,Low,Technology,3,Data Analyst
+92,76,High,High,Low,Technology,0,DevOps Engineer (Junior)
+87,95,Medium,Medium,Low,Technology,0,QA Engineer
+95,78,Medium,High,Low,Technology,0,QA Engineer
+93,75,Medium,Medium,High,Technology,0,Frontend Developer
+91,83,High,High,Low,Technology,2,Data Scientist (Junior)
+82,70,Medium,Medium,Medium,Technology,0,Web Developer
+91,74,Medium,Medium,High,Technology,1,Frontend Developer
+86,82,Medium,Medium,Low,Technology,5,QA Engineer
+70,83,High,High,Low,Technology,0,Cyber Security Analyst
+81,80,Medium,High,Medium,Technology,2,Web Developer
+83,86,Medium,Medium,Low,Technology,4,Junior Software Engineer
+83,91,Low,High,High,Technology,1,UI/UX Designer
+77,75,High,High,Low,Technology,0,Cloud Engineer (Junior)
+92,76,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+85,92,Medium,Medium,High,Technology,0,Frontend Developer
+95,91,High,Medium,Low,Technology,1,Cyber Security Analyst
+70,94,Medium,High,Medium,Technology,5,Web Developer
+85,71,High,High,Low,Technology,3,Data Scientist (Junior)
+88,90,High,High,Low,Technology,0,Cloud Engineer (Junior)
+86,84,Medium,Medium,Low,Technology,3,Data Analyst
+90,92,Low,High,High,Technology,0,UI/UX Designer
+70,76,Medium,Medium,Low,Technology,0,QA Engineer
+87,85,High,High,Low,Technology,3,DevOps Engineer (Junior)
+83,77,High,Medium,Low,Technology,1,ML Engineer (Junior)
+91,77,High,High,Low,Technology,0,ML Engineer (Junior)
+86,80,High,Medium,Low,Technology,1,Cyber Security Analyst
+90,70,High,High,Low,Technology,3,ML Engineer (Junior)
+93,76,High,High,Low,Technology,1,DevOps Engineer (Junior)
+95,72,High,High,Low,Technology,0,Cyber Security Analyst
+70,89,High,High,Low,Technology,1,Data Scientist (Junior)
+72,90,Medium,Medium,Low,Technology,0,QA Engineer
+83,70,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+73,94,High,High,Low,Technology,0,Backend Developer
+74,83,High,Medium,Low,Technology,0,ML Engineer (Junior)
+81,79,High,Medium,Low,Technology,1,Data Scientist (Junior)
+71,92,High,High,Low,Technology,0,Cloud Engineer (Junior)
+74,94,High,High,Low,Technology,5,Software Engineer
+75,94,Medium,High,High,Technology,0,Frontend Developer
+83,84,High,High,Low,Technology,3,ML Engineer (Junior)
+95,88,High,Medium,Low,Technology,0,Cyber Security Analyst
+95,83,Medium,Medium,Low,Technology,0,Junior Software Engineer
+87,94,High,Medium,Low,Technology,1,ML Engineer (Junior)
+81,72,Medium,High,Medium,Technology,2,Web Developer
+91,90,Medium,High,Low,Technology,2,Data Analyst
+91,70,Medium,High,Low,Technology,3,Data Analyst
+87,85,Low,High,High,Technology,3,UI/UX Designer
+89,95,High,Medium,Low,Technology,4,DevOps Engineer (Junior)
+84,87,Medium,Medium,Medium,Technology,0,Web Developer
+70,78,High,Medium,Low,Technology,0,Backend Developer
+86,70,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+89,80,High,Medium,Low,Technology,0,Backend Developer
+82,84,High,High,Low,Technology,2,Data Scientist (Junior)
+87,89,High,Medium,Low,Technology,3,Cyber Security Analyst
+70,79,High,High,Low,Technology,0,Software Engineer
+91,74,High,High,Low,Technology,0,Cyber Security Analyst
+90,81,High,High,Low,Technology,1,ML Engineer (Junior)
+70,90,High,Medium,Low,Technology,3,Backend Developer
+95,78,Medium,Medium,Low,Technology,4,Junior Software Engineer
+84,86,Medium,Medium,Medium,Technology,1,Web Developer
+89,80,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+71,74,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+91,74,High,Medium,Low,Technology,2,ML Engineer (Junior)
+73,86,High,Medium,Low,Technology,1,Backend Developer
+81,81,High,High,Low,Technology,0,ML Engineer (Junior)
+91,79,High,High,Low,Technology,5,Data Scientist (Junior)
+90,84,High,High,Low,Technology,0,ML Engineer (Junior)
+76,71,High,High,Low,Technology,0,Backend Developer
+82,79,Medium,Medium,Low,Technology,0,QA Engineer
+88,79,Medium,High,Low,Technology,2,Data Analyst
+81,88,High,High,Low,Technology,1,Cloud Engineer (Junior)
+72,82,Medium,Medium,Medium,Technology,1,Web Developer
+84,77,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+93,86,High,High,Low,Technology,0,DevOps Engineer (Junior)
+89,94,High,Medium,Low,Technology,5,Cyber Security Analyst
+81,73,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+90,81,Medium,High,Medium,Technology,1,Web Developer
+74,91,High,High,Low,Technology,1,Data Scientist (Junior)
+94,85,Medium,Medium,Medium,Technology,1,Web Developer
+82,93,Low,High,High,Technology,1,UI/UX Designer
+75,74,Medium,Medium,High,Technology,2,Frontend Developer
+81,95,Medium,Medium,Low,Technology,0,Data Analyst
+87,75,Medium,High,High,Technology,3,Frontend Developer
+94,83,Medium,High,Low,Technology,2,Data Analyst
+77,94,High,Medium,Low,Technology,1,Software Engineer
+88,82,Medium,High,Medium,Technology,0,Web Developer
+78,85,High,High,Low,Technology,1,Cloud Engineer (Junior)
+85,92,Low,Medium,High,Technology,0,UI/UX Designer
+75,75,High,High,Low,Technology,2,Cloud Engineer (Junior)
+76,85,Medium,High,High,Technology,1,Frontend Developer
+85,74,High,High,Low,Technology,5,Backend Developer
+86,93,Medium,Medium,Low,Technology,0,Junior Software Engineer
+76,83,Medium,Medium,Low,Technology,1,Data Analyst
+95,87,High,High,Low,Technology,0,Data Scientist (Junior)
+87,76,Medium,Medium,High,Technology,0,Frontend Developer
+92,94,High,Medium,Low,Technology,1,Cyber Security Analyst
+75,72,Medium,Medium,Medium,Technology,1,Web Developer
+95,75,Medium,High,High,Technology,1,Frontend Developer
+79,91,Medium,High,Low,Technology,3,QA Engineer
+70,79,High,Medium,Low,Technology,2,Cyber Security Analyst
+77,84,Medium,High,Low,Technology,2,QA Engineer
+92,75,High,Medium,Low,Technology,3,Cloud Engineer (Junior)
+77,89,Medium,High,Low,Technology,0,Junior Software Engineer
+86,70,Medium,High,Medium,Technology,0,Web Developer
+89,75,High,High,Low,Technology,0,DevOps Engineer (Junior)
+86,85,High,High,Low,Technology,0,Software Engineer
+73,74,Medium,High,Low,Technology,1,QA Engineer
+85,93,Low,Medium,High,Technology,0,UI/UX Designer
+88,78,Medium,Medium,Low,Technology,1,Junior Software Engineer
+74,82,High,Medium,Low,Technology,0,Backend Developer
+77,90,High,Medium,Low,Technology,0,ML Engineer (Junior)
+76,84,High,High,Low,Technology,0,Data Scientist (Junior)
+73,90,Medium,Medium,Low,Technology,2,Data Analyst
+82,83,Medium,Medium,Low,Technology,0,Data Analyst
+93,93,High,Medium,Low,Technology,3,Cyber Security Analyst
+84,75,High,Medium,Low,Technology,1,Data Scientist (Junior)
+75,84,High,High,Low,Technology,0,DevOps Engineer (Junior)
+89,86,High,High,Low,Technology,1,Software Engineer
+71,70,High,High,Low,Technology,1,DevOps Engineer (Junior)
+92,70,Low,Medium,High,Technology,0,UI/UX Designer
+87,91,Medium,Medium,Low,Technology,1,Data Analyst
+84,92,Medium,High,Low,Technology,1,Data Analyst
+85,88,Medium,High,High,Technology,2,Frontend Developer
+89,76,High,High,Low,Technology,0,ML Engineer (Junior)
+73,79,High,Medium,Low,Technology,2,Software Engineer
+90,94,Medium,High,Low,Technology,0,Junior Software Engineer
+73,73,High,Medium,Low,Technology,2,Data Scientist (Junior)
+86,95,Medium,Medium,Low,Technology,2,Data Analyst
+75,73,Medium,High,High,Technology,0,Frontend Developer
+70,81,Medium,High,Medium,Technology,0,Web Developer
+92,84,High,High,Low,Technology,0,DevOps Engineer (Junior)
+78,78,High,High,Low,Technology,0,DevOps Engineer (Junior)
+90,85,Medium,Medium,Medium,Technology,0,Web Developer
+77,92,High,High,Low,Technology,1,Cloud Engineer (Junior)
+76,79,High,High,Low,Technology,0,Cloud Engineer (Junior)
+90,82,Medium,High,Low,Technology,0,Junior Software Engineer
+95,93,Medium,Medium,Medium,Technology,0,Web Developer
+71,94,High,High,Low,Technology,0,Data Scientist (Junior)
+85,94,Medium,Medium,Medium,Technology,0,Web Developer
+95,82,High,High,Low,Technology,0,Cloud Engineer (Junior)
+76,89,Medium,Medium,High,Technology,0,Frontend Developer
+73,72,Low,High,High,Technology,3,UI/UX Designer
+71,91,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+73,74,High,High,Low,Technology,1,Software Engineer
+89,94,Medium,Medium,Low,Technology,0,QA Engineer
+87,92,High,High,Low,Technology,1,Backend Developer
+76,81,Medium,High,Low,Technology,0,Junior Software Engineer
+93,88,High,Medium,Low,Technology,1,Backend Developer
+75,91,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+93,80,Medium,Medium,Low,Technology,1,Data Analyst
+71,72,Medium,Medium,Medium,Technology,0,Web Developer
+90,84,High,High,Low,Technology,1,DevOps Engineer (Junior)
+75,94,High,Medium,Low,Technology,0,Software Engineer
+91,72,Medium,High,Low,Technology,1,Data Analyst
+78,84,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+87,85,High,Medium,Low,Technology,0,Cyber Security Analyst
+71,76,High,High,Low,Technology,1,Cyber Security Analyst
+92,75,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+95,87,Medium,High,High,Technology,3,Frontend Developer
+93,77,Medium,High,Low,Technology,3,QA Engineer
+73,70,Low,Medium,High,Technology,1,UI/UX Designer
+83,89,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+87,95,High,High,Low,Technology,0,Data Scientist (Junior)
+80,91,High,Medium,Low,Technology,1,Software Engineer
+87,76,Medium,High,Low,Technology,0,Data Analyst
+77,71,High,Medium,Low,Technology,3,Software Engineer
+79,83,High,High,Low,Technology,0,Cyber Security Analyst
+72,91,Medium,Medium,High,Technology,0,Frontend Developer
+89,90,Medium,High,Low,Technology,1,Junior Software Engineer
+95,80,Medium,Medium,Low,Technology,5,QA Engineer
+77,70,High,Medium,Low,Technology,1,ML Engineer (Junior)
+80,76,Low,High,High,Technology,1,UI/UX Designer
+74,88,Medium,High,Medium,Technology,1,Web Developer
+82,73,High,High,Low,Technology,0,Cloud Engineer (Junior)
+76,88,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+78,73,Medium,Medium,High,Technology,2,Frontend Developer
+90,75,High,High,Low,Technology,1,Software Engineer
+95,88,High,Medium,Low,Technology,0,Cyber Security Analyst
+74,75,Medium,High,Medium,Technology,1,Web Developer
+88,72,High,Medium,Low,Technology,2,Data Scientist (Junior)
+75,86,Medium,Medium,Low,Technology,0,Data Analyst
+89,85,High,Medium,Low,Technology,1,Software Engineer
+75,91,High,Medium,Low,Technology,2,Data Scientist (Junior)
+88,93,Low,High,High,Technology,0,UI/UX Designer
+79,72,High,High,Low,Technology,1,Cloud Engineer (Junior)
+80,75,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+87,73,High,High,Low,Technology,0,Data Scientist (Junior)
+77,93,Medium,Medium,Low,Technology,0,Data Analyst
+84,79,High,High,Low,Technology,0,ML Engineer (Junior)
+94,75,High,High,Low,Technology,1,ML Engineer (Junior)
+78,73,Medium,High,Medium,Technology,1,Web Developer
+92,93,Medium,High,Medium,Technology,0,Web Developer
+73,71,High,Medium,Low,Technology,0,ML Engineer (Junior)
+77,93,High,Medium,Low,Technology,0,Data Scientist (Junior)
+95,84,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+70,74,Medium,Medium,High,Technology,3,Frontend Developer
+88,78,Medium,Medium,Low,Technology,4,Junior Software Engineer
+75,72,High,High,Low,Technology,2,Cyber Security Analyst
+85,93,Medium,Medium,Low,Technology,2,Junior Software Engineer
+85,82,Low,Medium,High,Technology,2,UI/UX Designer
+91,74,Medium,High,Low,Technology,1,Junior Software Engineer
+95,89,High,High,Low,Technology,2,Data Scientist (Junior)
+79,92,Low,High,High,Technology,1,UI/UX Designer
+75,94,Medium,Medium,Low,Technology,1,Junior Software Engineer
+95,95,High,High,Low,Technology,0,Software Engineer
+82,94,High,Medium,Low,Technology,2,ML Engineer (Junior)
+92,95,Medium,High,Low,Technology,0,QA Engineer
+75,83,High,High,Low,Technology,1,Software Engineer
+80,90,High,Medium,Low,Technology,3,ML Engineer (Junior)
+70,78,Medium,High,High,Technology,1,Frontend Developer
+76,81,Medium,Medium,Low,Technology,2,Data Analyst
+74,86,High,Medium,Low,Technology,0,Software Engineer
+86,89,High,High,Low,Technology,4,Data Scientist (Junior)
+79,82,Medium,High,High,Technology,0,Frontend Developer
+80,91,High,High,Low,Technology,0,Software Engineer
+74,84,Medium,High,High,Technology,0,Frontend Developer
+84,75,High,High,Low,Technology,1,Data Scientist (Junior)
+78,80,High,High,Low,Technology,1,ML Engineer (Junior)
+71,75,Medium,High,High,Technology,1,Frontend Developer
+95,91,High,High,Low,Technology,0,Cloud Engineer (Junior)
+81,82,Medium,Medium,Low,Technology,3,Data Analyst
+71,89,Medium,High,Low,Technology,0,QA Engineer
+90,93,High,Medium,Low,Technology,1,Backend Developer
+77,85,High,Medium,Low,Technology,0,Data Scientist (Junior)
+90,77,High,Medium,Low,Technology,1,ML Engineer (Junior)
+92,79,High,Medium,Low,Technology,1,Backend Developer
+89,79,Medium,Medium,Medium,Technology,3,Web Developer
+79,82,Medium,High,Low,Technology,2,QA Engineer
+70,88,High,High,Low,Technology,3,Data Scientist (Junior)
+72,90,Low,Medium,High,Technology,0,UI/UX Designer
+89,91,Medium,Medium,High,Technology,1,Frontend Developer
+86,79,High,Medium,Low,Technology,1,ML Engineer (Junior)
+75,74,High,High,Low,Technology,0,Cyber Security Analyst
+95,77,Medium,High,Low,Technology,1,Junior Software Engineer
+88,94,Medium,Medium,High,Technology,0,Frontend Developer
+82,92,High,High,Low,Technology,2,Software Engineer
+91,73,High,High,Low,Technology,3,ML Engineer (Junior)
+78,84,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+83,95,High,High,Low,Technology,1,Backend Developer
+78,71,Medium,High,Low,Technology,3,Junior Software Engineer
+89,81,High,High,Low,Technology,0,Data Scientist (Junior)
+90,71,Medium,Medium,Low,Technology,0,Data Analyst
+77,71,Medium,Medium,Low,Technology,1,Data Analyst
+82,89,High,Medium,Low,Technology,1,ML Engineer (Junior)
+87,95,High,High,Low,Technology,0,Cloud Engineer (Junior)
+90,92,High,Medium,Low,Technology,1,Software Engineer
+92,94,Low,Medium,High,Technology,1,UI/UX Designer
+78,74,High,Medium,Low,Technology,0,Backend Developer
+75,71,High,High,Low,Technology,1,Software Engineer
+86,75,Medium,High,Low,Technology,1,Junior Software Engineer
+83,72,Medium,High,Medium,Technology,3,Web Developer
+85,95,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+94,85,High,Medium,Low,Technology,0,Backend Developer
+84,72,High,High,Low,Technology,2,Software Engineer
+90,80,Medium,Medium,Medium,Technology,3,Web Developer
+81,75,High,Medium,Low,Technology,3,Cloud Engineer (Junior)
+91,81,High,High,Low,Technology,0,ML Engineer (Junior)
+82,88,Medium,High,Medium,Technology,0,Web Developer
+93,82,Medium,High,Low,Technology,0,Junior Software Engineer
+80,71,Medium,Medium,Low,Technology,5,QA Engineer
+94,74,High,High,Low,Technology,0,DevOps Engineer (Junior)
+89,94,Medium,Medium,Medium,Technology,0,Web Developer
+91,95,Medium,High,Low,Technology,2,Junior Software Engineer
+94,82,High,High,Low,Technology,0,DevOps Engineer (Junior)
+75,93,High,Medium,Low,Technology,0,Cyber Security Analyst
+84,84,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+84,71,High,High,Low,Technology,1,Cloud Engineer (Junior)
+74,84,High,Medium,Low,Technology,1,Data Scientist (Junior)
+77,72,High,Medium,Low,Technology,5,Backend Developer
+91,72,High,High,Low,Technology,2,Cloud Engineer (Junior)
+70,80,Medium,High,Low,Technology,4,Data Analyst
+78,79,High,High,Low,Technology,3,DevOps Engineer (Junior)
+71,93,High,Medium,Low,Technology,3,DevOps Engineer (Junior)
+89,70,High,High,Low,Technology,0,ML Engineer (Junior)
+75,86,Medium,Medium,High,Technology,1,Frontend Developer
+92,87,Medium,Medium,Medium,Technology,2,Web Developer
+73,84,High,High,Low,Technology,1,Backend Developer
+71,79,Low,Medium,High,Technology,0,UI/UX Designer
+76,86,High,High,Low,Technology,0,Software Engineer
+73,85,High,Medium,Low,Technology,2,Data Scientist (Junior)
+90,91,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+84,71,Medium,Medium,Low,Technology,0,QA Engineer
+92,88,High,High,Low,Technology,1,DevOps Engineer (Junior)
+94,90,High,High,Low,Technology,1,Data Scientist (Junior)
+87,91,High,Medium,Low,Technology,0,Data Scientist (Junior)
+95,84,Medium,Medium,Medium,Technology,1,Web Developer
+81,83,High,Medium,Low,Technology,1,Backend Developer
+75,90,High,High,Low,Technology,1,DevOps Engineer (Junior)
+73,71,High,Medium,Low,Technology,0,Cyber Security Analyst
+85,86,High,High,Low,Technology,1,Software Engineer
+78,90,High,High,Low,Technology,1,Data Scientist (Junior)
+93,93,Medium,Medium,Medium,Technology,0,Web Developer
+92,84,Medium,High,High,Technology,0,Frontend Developer
+74,95,High,Medium,Low,Technology,1,Cyber Security Analyst
+89,91,High,Medium,Low,Technology,1,ML Engineer (Junior)
+82,82,Medium,Medium,High,Technology,0,Frontend Developer
+92,82,High,High,Low,Technology,1,DevOps Engineer (Junior)
+86,81,High,Medium,Low,Technology,1,Data Scientist (Junior)
+74,85,Medium,Medium,Low,Technology,5,Junior Software Engineer
+82,80,High,High,Low,Technology,2,ML Engineer (Junior)
+81,88,Medium,Medium,Low,Technology,0,QA Engineer
+71,90,High,Medium,Low,Technology,5,ML Engineer (Junior)
+90,93,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+90,94,Low,Medium,High,Technology,0,UI/UX Designer
+83,71,Medium,Medium,High,Technology,0,Frontend Developer
+80,79,High,High,Low,Technology,0,Backend Developer
+85,86,Low,High,High,Technology,0,UI/UX Designer
+76,72,High,High,Low,Technology,0,Cloud Engineer (Junior)
+90,88,Medium,Medium,Low,Technology,0,QA Engineer
+82,81,Medium,Medium,Low,Technology,2,Data Analyst
+87,88,Medium,High,Medium,Technology,1,Web Developer
+91,81,High,Medium,Low,Technology,3,DevOps Engineer (Junior)
+77,73,High,Medium,Low,Technology,0,Data Scientist (Junior)
+94,90,High,High,Low,Technology,3,Cyber Security Analyst
+74,83,Medium,High,High,Technology,5,Frontend Developer
+80,82,Medium,High,High,Technology,2,Frontend Developer
+84,71,Low,Medium,High,Technology,0,UI/UX Designer
+74,79,High,Medium,Low,Technology,1,Data Scientist (Junior)
+85,84,High,Medium,Low,Technology,3,ML Engineer (Junior)
+77,75,Medium,Medium,Medium,Technology,0,Web Developer
+79,70,Low,High,High,Technology,0,UI/UX Designer
+70,80,Medium,Medium,Low,Technology,2,QA Engineer
+89,91,High,High,Low,Technology,2,Backend Developer
+79,89,Medium,High,High,Technology,1,Frontend Developer
+89,81,High,Medium,Low,Technology,3,ML Engineer (Junior)
+80,81,High,Medium,Low,Technology,3,Backend Developer
+73,93,Medium,Medium,Low,Technology,5,QA Engineer
+88,89,High,High,Low,Technology,0,Data Scientist (Junior)
+73,76,High,High,Low,Technology,1,ML Engineer (Junior)
+79,88,High,Medium,Low,Technology,0,ML Engineer (Junior)
+74,72,Medium,High,Low,Technology,1,Junior Software Engineer
+86,73,Medium,High,Low,Technology,0,QA Engineer
+95,82,Medium,High,High,Technology,2,Frontend Developer
+75,78,High,High,Low,Technology,2,DevOps Engineer (Junior)
+79,89,High,High,Low,Technology,0,Software Engineer
+80,82,Medium,High,Low,Technology,2,Data Analyst
+80,91,Low,Medium,High,Technology,0,UI/UX Designer
+73,90,Medium,Medium,Low,Technology,5,Junior Software Engineer
+77,88,High,High,Low,Technology,0,Data Scientist (Junior)
+81,70,Medium,High,Low,Technology,0,Data Analyst
+78,76,Medium,High,Low,Technology,0,Data Analyst
+74,75,High,Medium,Low,Technology,3,Cloud Engineer (Junior)
+82,91,Medium,Medium,High,Technology,0,Frontend Developer
+70,77,Medium,Medium,High,Technology,1,Frontend Developer
+87,90,Medium,Medium,Low,Technology,2,QA Engineer
+72,86,High,High,Low,Technology,0,Cyber Security Analyst
+86,74,High,Medium,Low,Technology,1,Cyber Security Analyst
+89,76,High,Medium,Low,Technology,1,Data Scientist (Junior)
+71,90,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+84,89,Medium,Medium,High,Technology,1,Frontend Developer
+81,93,High,Medium,Low,Technology,1,Data Scientist (Junior)
+74,76,Low,High,High,Technology,1,UI/UX Designer
+75,83,High,High,Low,Technology,5,Cloud Engineer (Junior)
+71,89,High,High,Low,Technology,1,Backend Developer
+90,81,High,Medium,Low,Technology,1,Cyber Security Analyst
+71,81,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+83,93,High,High,Low,Technology,0,Data Scientist (Junior)
+71,84,High,High,Low,Technology,1,Data Scientist (Junior)
+72,76,Medium,High,Low,Technology,1,QA Engineer
+95,84,High,Medium,Low,Technology,2,Data Scientist (Junior)
+83,87,Medium,High,Low,Technology,1,Junior Software Engineer
+83,84,Low,Medium,High,Technology,0,UI/UX Designer
+81,71,Medium,High,Low,Technology,0,QA Engineer
+79,71,Medium,High,Low,Technology,2,QA Engineer
+70,84,High,High,Low,Technology,1,ML Engineer (Junior)
+87,81,High,High,Low,Technology,2,Cloud Engineer (Junior)
+77,92,High,Medium,Low,Technology,0,Cyber Security Analyst
+85,71,Medium,High,Low,Technology,0,Junior Software Engineer
+91,90,High,Medium,Low,Technology,0,Data Scientist (Junior)
+92,75,Medium,Medium,Low,Technology,3,QA Engineer
+70,86,Medium,High,Low,Technology,0,Junior Software Engineer
+86,87,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+74,71,Medium,Medium,Low,Technology,0,Junior Software Engineer
+93,71,Medium,High,Low,Technology,1,QA Engineer
+73,76,Medium,High,Low,Technology,1,Junior Software Engineer
+80,94,Medium,High,Low,Technology,1,Data Analyst
+90,90,High,High,Low,Technology,5,Data Scientist (Junior)
+87,90,Medium,High,Low,Technology,0,QA Engineer
+93,79,High,Medium,Low,Technology,0,Cyber Security Analyst
+94,73,High,High,Low,Technology,2,Backend Developer
+70,71,High,Medium,Low,Technology,0,Software Engineer
+84,95,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+79,78,High,High,Low,Technology,2,Software Engineer
+76,86,Medium,Medium,Low,Technology,1,Data Analyst
+72,83,Medium,High,Low,Technology,4,QA Engineer
+95,88,Medium,Medium,High,Technology,3,Frontend Developer
+72,89,High,Medium,Low,Technology,0,ML Engineer (Junior)
+82,71,High,High,Low,Technology,1,Cyber Security Analyst
+89,70,Medium,High,High,Technology,1,Frontend Developer
+70,73,Medium,Medium,Medium,Technology,3,Web Developer
+88,83,High,High,Low,Technology,2,Cloud Engineer (Junior)
+77,94,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+87,75,Low,High,High,Technology,2,UI/UX Designer
+79,89,Medium,High,Low,Technology,2,Junior Software Engineer
+79,94,High,High,Low,Technology,0,Data Scientist (Junior)
+80,94,High,High,Low,Technology,1,DevOps Engineer (Junior)
+80,70,Medium,Medium,Medium,Technology,2,Web Developer
+80,72,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+83,72,Medium,High,Low,Technology,0,QA Engineer
+70,89,High,High,Low,Technology,0,Software Engineer
+92,89,High,Medium,Low,Technology,3,DevOps Engineer (Junior)
+88,88,High,High,Low,Technology,0,ML Engineer (Junior)
+72,73,Medium,High,Medium,Technology,0,Web Developer
+78,76,High,High,Low,Technology,1,DevOps Engineer (Junior)
+84,91,Medium,High,Low,Technology,1,QA Engineer
+70,89,Low,High,High,Technology,1,UI/UX Designer
+74,81,High,High,Low,Technology,1,Backend Developer
+76,83,High,High,Low,Technology,1,Cloud Engineer (Junior)
+82,91,Medium,Medium,High,Technology,0,Frontend Developer
+95,72,Medium,Medium,Medium,Technology,3,Web Developer
+84,80,Medium,Medium,Low,Technology,1,Junior Software Engineer
+83,88,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+85,83,High,High,Low,Technology,2,Cloud Engineer (Junior)
+94,79,Medium,High,Low,Technology,0,Junior Software Engineer
+93,86,Low,High,High,Technology,1,UI/UX Designer
+82,82,Medium,Medium,Low,Technology,0,Junior Software Engineer
+74,76,Medium,High,Low,Technology,0,Junior Software Engineer
+75,79,Medium,Medium,Medium,Technology,0,Web Developer
+84,92,Medium,High,Low,Technology,1,QA Engineer
+72,86,Medium,High,Low,Technology,4,Data Analyst
+88,85,High,High,Low,Technology,1,Data Scientist (Junior)
+72,72,Medium,Medium,Low,Technology,2,QA Engineer
+95,72,Medium,Medium,High,Technology,1,Frontend Developer
+72,91,Medium,Medium,Medium,Technology,3,Web Developer
+86,77,Medium,Medium,Low,Technology,1,Junior Software Engineer
+87,74,High,Medium,Low,Technology,4,Cyber Security Analyst
+83,80,High,Medium,Low,Technology,0,Software Engineer
+85,86,High,High,Low,Technology,2,Software Engineer
+89,84,High,Medium,Low,Technology,0,Software Engineer
+81,94,Medium,Medium,Low,Technology,0,Data Analyst
+77,89,Medium,High,Low,Technology,1,Junior Software Engineer
+94,83,Medium,Medium,Low,Technology,0,Data Analyst
+78,75,Medium,Medium,Low,Technology,2,Junior Software Engineer
+88,70,Medium,High,Low,Technology,1,Data Analyst
+78,89,Medium,High,Low,Technology,0,Junior Software Engineer
+94,84,Low,Medium,High,Technology,1,UI/UX Designer
+92,85,Medium,High,Low,Technology,0,Data Analyst
+86,77,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+89,74,High,Medium,Low,Technology,1,ML Engineer (Junior)
+81,91,Medium,High,Low,Technology,0,Data Analyst
+82,78,Low,Medium,High,Technology,5,UI/UX Designer
+81,83,Medium,High,Low,Technology,0,Junior Software Engineer
+74,94,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+81,85,High,High,Low,Technology,0,DevOps Engineer (Junior)
+85,84,High,High,Low,Technology,0,Cyber Security Analyst
+78,88,Medium,Medium,High,Technology,0,Frontend Developer
+80,75,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+85,87,Medium,High,Low,Technology,4,Junior Software Engineer
+84,75,Medium,Medium,Medium,Technology,1,Web Developer
+77,83,Medium,Medium,Low,Technology,0,Junior Software Engineer
+74,74,High,Medium,Low,Technology,1,Software Engineer
+90,81,High,High,Low,Technology,3,Software Engineer
+85,74,Medium,High,Low,Technology,0,Junior Software Engineer
+79,77,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+87,74,Medium,Medium,Medium,Technology,0,Web Developer
+73,91,High,High,Low,Technology,0,Data Scientist (Junior)
+94,78,Medium,Medium,Low,Technology,2,Junior Software Engineer
+95,80,High,High,Low,Technology,1,Software Engineer
+81,88,High,Medium,Low,Technology,1,Data Scientist (Junior)
+88,74,High,Medium,Low,Technology,1,ML Engineer (Junior)
+81,82,Medium,High,Low,Technology,0,QA Engineer
+80,82,High,High,Low,Technology,1,ML Engineer (Junior)
+82,88,Medium,Medium,Low,Technology,2,Data Analyst
+85,70,Medium,High,High,Technology,1,Frontend Developer
+80,72,Low,Medium,High,Technology,4,UI/UX Designer
+79,89,Medium,High,Low,Technology,3,Junior Software Engineer
+77,82,High,High,Low,Technology,3,Cloud Engineer (Junior)
+75,81,High,Medium,Low,Technology,1,Cyber Security Analyst
+85,79,High,Medium,Low,Technology,0,Cyber Security Analyst
+90,92,Medium,Medium,Medium,Technology,0,Web Developer
+80,90,Medium,Medium,Low,Technology,2,QA Engineer
+93,87,Medium,High,High,Technology,5,Frontend Developer
+80,91,Medium,Medium,Low,Technology,2,QA Engineer
+75,90,High,High,Low,Technology,1,DevOps Engineer (Junior)
+72,77,High,High,Low,Technology,1,Cloud Engineer (Junior)
+95,88,High,High,Low,Technology,1,Data Scientist (Junior)
+84,84,High,Medium,Low,Technology,2,ML Engineer (Junior)
+78,94,Medium,Medium,Low,Technology,5,Data Analyst
+90,82,Medium,Medium,Medium,Technology,1,Web Developer
+78,82,High,High,Low,Technology,0,Data Scientist (Junior)
+77,82,High,Medium,Low,Technology,1,Cyber Security Analyst
+92,93,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+95,81,Medium,High,High,Technology,1,Frontend Developer
+77,70,High,High,Low,Technology,2,DevOps Engineer (Junior)
+79,83,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+86,95,Medium,High,Low,Technology,0,QA Engineer
+76,92,High,High,Low,Technology,3,Cloud Engineer (Junior)
+80,78,Medium,Medium,Low,Technology,0,Data Analyst
+75,82,Medium,High,Low,Technology,1,QA Engineer
+80,88,Medium,Medium,Low,Technology,0,Junior Software Engineer
+89,88,High,High,Low,Technology,0,Cloud Engineer (Junior)
+89,73,High,High,Low,Technology,1,Cyber Security Analyst
+94,76,High,Medium,Low,Technology,1,Software Engineer
+83,86,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+90,86,High,High,Low,Technology,1,Cloud Engineer (Junior)
+72,90,High,High,Low,Technology,0,Software Engineer
+70,80,High,High,Low,Technology,3,Cyber Security Analyst
+81,86,Medium,Medium,Medium,Technology,2,Web Developer
+93,82,High,High,Low,Technology,0,Data Scientist (Junior)
+89,73,High,Medium,Low,Technology,0,Cyber Security Analyst
+86,75,Medium,High,Low,Technology,1,Data Analyst
+89,73,High,Medium,Low,Technology,3,Data Scientist (Junior)
+88,75,High,High,Low,Technology,0,Cyber Security Analyst
+74,82,High,High,Low,Technology,0,Data Scientist (Junior)
+75,79,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+93,78,Medium,High,Medium,Technology,0,Web Developer
+70,93,High,High,Low,Technology,2,Cyber Security Analyst
+94,82,Medium,Medium,Low,Technology,0,QA Engineer
+95,78,Medium,Medium,Low,Technology,0,QA Engineer
+88,79,High,Medium,Low,Technology,3,Software Engineer
+76,78,High,High,Low,Technology,1,Backend Developer
+74,78,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+95,79,Medium,High,Low,Technology,1,QA Engineer
+80,75,Medium,Medium,Medium,Technology,0,Web Developer
+82,75,Low,Medium,High,Technology,1,UI/UX Designer
+89,92,Medium,Medium,Low,Technology,0,QA Engineer
+93,73,High,High,Low,Technology,1,Cloud Engineer (Junior)
+79,87,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+75,79,High,Medium,Low,Technology,0,ML Engineer (Junior)
+70,84,High,High,Low,Technology,1,DevOps Engineer (Junior)
+94,77,Medium,High,Low,Technology,0,Junior Software Engineer
+85,72,Medium,Medium,Low,Technology,0,Data Analyst
+80,84,High,High,Low,Technology,3,ML Engineer (Junior)
+84,93,Low,Medium,High,Technology,0,UI/UX Designer
+75,94,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+89,93,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+90,86,Medium,High,Low,Technology,0,Junior Software Engineer
+83,72,Low,High,High,Technology,0,UI/UX Designer
+75,79,Medium,High,Medium,Technology,1,Web Developer
+85,86,High,High,Low,Technology,1,Software Engineer
+72,95,Medium,Medium,High,Technology,1,Frontend Developer
+76,70,High,Medium,Low,Technology,0,Software Engineer
+71,90,High,Medium,Low,Technology,2,Data Scientist (Junior)
+95,86,High,High,Low,Technology,0,Cloud Engineer (Junior)
+79,91,High,Medium,Low,Technology,0,ML Engineer (Junior)
+80,76,High,High,Low,Technology,1,DevOps Engineer (Junior)
+82,86,Medium,Medium,Low,Technology,0,Data Analyst
+77,89,High,High,Low,Technology,0,Cloud Engineer (Junior)
+70,83,High,High,Low,Technology,1,Backend Developer
+74,70,High,Medium,Low,Technology,3,Cloud Engineer (Junior)
+89,76,Medium,High,Low,Technology,3,QA Engineer
+78,72,Low,High,High,Technology,0,UI/UX Designer
+94,87,Medium,High,Low,Technology,0,Junior Software Engineer
+74,76,High,High,Low,Technology,0,Data Scientist (Junior)
+76,84,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+75,89,Medium,High,High,Technology,1,Frontend Developer
+90,85,Medium,Medium,Low,Technology,2,Data Analyst
+85,72,Low,Medium,High,Technology,0,UI/UX Designer
+90,73,Medium,Medium,Medium,Technology,2,Web Developer
+92,85,High,Medium,Low,Technology,1,Data Scientist (Junior)
+73,90,Medium,High,Low,Technology,0,QA Engineer
+83,85,Medium,Medium,High,Technology,1,Frontend Developer
+84,71,High,Medium,Low,Technology,1,Data Scientist (Junior)
+91,92,Medium,High,Low,Technology,0,Data Analyst
+84,84,Medium,High,Low,Technology,0,Junior Software Engineer
+84,89,High,High,Low,Technology,0,Software Engineer
+80,95,High,Medium,Low,Technology,0,Cyber Security Analyst
+84,84,High,High,Low,Technology,3,DevOps Engineer (Junior)
+82,81,High,Medium,Low,Technology,0,Cyber Security Analyst
+84,92,High,High,Low,Technology,0,Software Engineer
+86,84,Medium,Medium,Low,Technology,3,QA Engineer
+89,95,Medium,Medium,Low,Technology,0,Junior Software Engineer
+86,84,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+95,91,High,Medium,Low,Technology,5,Data Scientist (Junior)
+83,76,High,High,Low,Technology,1,Cyber Security Analyst
+90,81,Medium,High,Low,Technology,1,Data Analyst
+83,75,High,High,Low,Technology,0,DevOps Engineer (Junior)
+94,73,High,High,Low,Technology,1,Cloud Engineer (Junior)
+84,78,High,Medium,Low,Technology,0,Software Engineer
+77,78,High,Medium,Low,Technology,2,Data Scientist (Junior)
+76,73,Medium,Medium,Low,Technology,3,Junior Software Engineer
+95,71,High,High,Low,Technology,0,Data Scientist (Junior)
+94,94,High,High,Low,Technology,1,Backend Developer
+86,83,High,Medium,Low,Technology,0,Software Engineer
+93,83,High,High,Low,Technology,2,Backend Developer
+95,73,High,Medium,Low,Technology,0,Backend Developer
+90,83,High,Medium,Low,Technology,3,Cyber Security Analyst
+72,91,High,Medium,Low,Technology,0,Backend Developer
+84,73,Medium,Medium,Low,Technology,0,Junior Software Engineer
+86,92,Medium,High,Low,Technology,3,Data Analyst
+87,87,High,High,Low,Technology,0,Cloud Engineer (Junior)
+71,73,High,High,Low,Technology,2,Software Engineer
+85,76,Medium,High,High,Technology,1,Frontend Developer
+78,81,High,Medium,Low,Technology,0,Cyber Security Analyst
+70,84,High,High,Low,Technology,4,Software Engineer
+71,81,Medium,Medium,Low,Technology,0,Data Analyst
+73,82,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+86,71,High,High,Low,Technology,1,Cyber Security Analyst
+78,72,Low,High,High,Technology,1,UI/UX Designer
+71,70,Low,Medium,High,Technology,0,UI/UX Designer
+91,88,Medium,Medium,Low,Technology,1,Junior Software Engineer
+90,74,Medium,Medium,Low,Technology,1,QA Engineer
+76,78,High,Medium,Low,Technology,0,ML Engineer (Junior)
+94,72,Medium,Medium,Low,Technology,3,QA Engineer
+88,70,Medium,High,Low,Technology,0,Junior Software Engineer
+91,87,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+85,88,Medium,Medium,Low,Technology,0,QA Engineer
+72,93,Medium,High,Low,Technology,5,QA Engineer
+81,73,Medium,Medium,Low,Technology,0,Junior Software Engineer
+92,81,High,Medium,Low,Technology,1,Cyber Security Analyst
+82,94,Low,Medium,High,Technology,1,UI/UX Designer
+74,95,High,Medium,Low,Technology,0,Cyber Security Analyst
+75,87,Medium,Medium,High,Technology,5,Frontend Developer
+78,93,Medium,High,Low,Technology,0,Junior Software Engineer
+71,92,Medium,High,High,Technology,4,Frontend Developer
+86,77,Medium,High,Low,Technology,4,Data Analyst
+70,79,High,High,Low,Technology,1,DevOps Engineer (Junior)
+81,74,Medium,High,Low,Technology,1,Data Analyst
+87,93,Medium,Medium,Low,Technology,1,QA Engineer
+79,89,Medium,High,Medium,Technology,2,Web Developer
+91,93,High,High,Low,Technology,1,Data Scientist (Junior)
+81,71,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+88,93,High,High,Low,Technology,0,Backend Developer
+94,89,Medium,Medium,Low,Technology,0,Data Analyst
+72,93,High,High,Low,Technology,1,Cyber Security Analyst
+79,77,High,Medium,Low,Technology,3,Backend Developer
+86,86,Medium,High,Low,Technology,0,Junior Software Engineer
+90,71,High,High,Low,Technology,3,ML Engineer (Junior)
+79,92,Medium,Medium,Low,Technology,0,Data Analyst
+86,73,Low,High,High,Technology,0,UI/UX Designer
+95,91,High,High,Low,Technology,2,ML Engineer (Junior)
+77,75,High,High,Low,Technology,0,Data Scientist (Junior)
+92,94,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+76,91,High,High,Low,Technology,0,ML Engineer (Junior)
+80,79,Medium,Medium,High,Technology,2,Frontend Developer
+93,76,Medium,High,High,Technology,2,Frontend Developer
+76,83,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+86,78,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+78,92,Medium,Medium,Medium,Technology,0,Web Developer
+86,87,Medium,Medium,Low,Technology,2,QA Engineer
+79,79,High,Medium,Low,Technology,0,Software Engineer
+91,91,High,High,Low,Technology,0,Cloud Engineer (Junior)
+84,87,Medium,High,Low,Technology,0,Junior Software Engineer
+83,84,Medium,Medium,Low,Technology,1,Junior Software Engineer
+93,80,High,Medium,Low,Technology,1,Data Scientist (Junior)
+91,92,Medium,Medium,High,Technology,5,Frontend Developer
+77,71,High,High,Low,Technology,2,Backend Developer
+95,72,High,Medium,Low,Technology,0,ML Engineer (Junior)
+78,70,High,High,Low,Technology,1,DevOps Engineer (Junior)
+93,81,High,High,Low,Technology,0,Backend Developer
+87,83,High,High,Low,Technology,1,Software Engineer
+91,78,Medium,High,Low,Technology,2,QA Engineer
+92,88,High,High,Low,Technology,2,Data Scientist (Junior)
+75,77,High,High,Low,Technology,5,Backend Developer
+85,94,High,Medium,Low,Technology,1,ML Engineer (Junior)
+83,86,Medium,High,Low,Technology,0,Data Analyst
+93,80,High,Medium,Low,Technology,1,Backend Developer
+78,88,High,High,Low,Technology,1,Cloud Engineer (Junior)
+75,88,High,High,Low,Technology,2,Backend Developer
+80,84,High,Medium,Low,Technology,1,ML Engineer (Junior)
+77,89,Medium,High,Low,Technology,1,Data Analyst
+92,75,High,High,Low,Technology,2,Software Engineer
+78,95,High,High,Low,Technology,1,ML Engineer (Junior)
+76,76,Medium,High,Low,Technology,0,QA Engineer
+78,76,Medium,High,Low,Technology,0,Data Analyst
+80,76,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+89,90,High,High,Low,Technology,0,Software Engineer
+84,70,High,Medium,Low,Technology,1,Software Engineer
+83,78,High,High,Low,Technology,0,Data Scientist (Junior)
+77,75,Low,Medium,High,Technology,0,UI/UX Designer
+84,73,High,High,Low,Technology,0,Data Scientist (Junior)
+90,71,Medium,Medium,Low,Technology,0,QA Engineer
+88,86,High,Medium,Low,Technology,1,Data Scientist (Junior)
+80,95,Medium,High,Low,Technology,0,Data Analyst
+88,70,Low,Medium,High,Technology,0,UI/UX Designer
+76,84,Medium,Medium,Low,Technology,0,QA Engineer
+79,72,High,High,Low,Technology,0,Data Scientist (Junior)
+72,81,Medium,Medium,High,Technology,1,Frontend Developer
+93,88,High,Medium,Low,Technology,0,Backend Developer
+72,93,High,Medium,Low,Technology,0,Data Scientist (Junior)
+76,76,High,High,Low,Technology,2,Backend Developer
+85,86,Low,High,High,Technology,1,UI/UX Designer
+76,76,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+78,88,Low,Medium,High,Technology,0,UI/UX Designer
+84,82,High,Medium,Low,Technology,2,Data Scientist (Junior)
+93,77,High,High,Low,Technology,0,Backend Developer
+83,93,Medium,High,Low,Technology,1,QA Engineer
+93,92,Medium,High,Low,Technology,0,Data Analyst
+70,79,Medium,Medium,Low,Technology,3,QA Engineer
+84,95,Medium,Medium,Low,Technology,1,Junior Software Engineer
+80,87,Medium,High,Low,Technology,0,Junior Software Engineer
+91,73,High,Medium,Low,Technology,1,Data Scientist (Junior)
+73,87,Medium,Medium,Low,Technology,0,Junior Software Engineer
+84,86,High,Medium,Low,Technology,0,Backend Developer
+82,86,Medium,High,Medium,Technology,1,Web Developer
+76,83,Medium,Medium,Medium,Technology,0,Web Developer
+92,92,High,High,Low,Technology,1,Backend Developer
+94,84,Low,High,High,Technology,1,UI/UX Designer
+87,84,High,Medium,Low,Technology,1,Software Engineer
+76,82,High,Medium,Low,Technology,1,Backend Developer
+76,87,Medium,Medium,High,Technology,3,Frontend Developer
+88,92,High,High,Low,Technology,2,DevOps Engineer (Junior)
+92,93,Medium,High,High,Technology,0,Frontend Developer
+72,81,High,Medium,Low,Technology,0,Data Scientist (Junior)
+77,70,High,High,Low,Technology,1,ML Engineer (Junior)
+70,72,High,Medium,Low,Technology,0,ML Engineer (Junior)
+84,88,High,Medium,Low,Technology,0,Data Scientist (Junior)
+70,78,Medium,High,Low,Technology,3,Data Analyst
+84,85,High,High,Low,Technology,0,Backend Developer
+81,76,Medium,Medium,High,Technology,1,Frontend Developer
+79,71,Medium,Medium,Low,Technology,2,Data Analyst
+74,74,Low,Medium,High,Technology,1,UI/UX Designer
+72,90,High,High,Low,Technology,2,Software Engineer
+77,83,High,High,Low,Technology,0,Cyber Security Analyst
+70,92,High,Medium,Low,Technology,2,ML Engineer (Junior)
+79,72,High,High,Low,Technology,1,Backend Developer
+81,74,High,High,Low,Technology,2,Cloud Engineer (Junior)
+93,71,High,Medium,Low,Technology,2,Cyber Security Analyst
+75,94,High,High,Low,Technology,1,Backend Developer
+78,74,High,Medium,Low,Technology,2,ML Engineer (Junior)
+77,76,Medium,High,Low,Technology,2,Data Analyst
+90,91,Medium,High,Low,Technology,1,Data Analyst
+78,93,Medium,High,Low,Technology,1,QA Engineer
+95,95,Medium,Medium,High,Technology,0,Frontend Developer
+85,80,Medium,High,Low,Technology,1,Junior Software Engineer
+76,85,Medium,High,Low,Technology,1,QA Engineer
+91,95,Medium,High,Low,Technology,0,Data Analyst
+92,89,High,Medium,Low,Technology,3,Data Scientist (Junior)
+70,91,High,High,Low,Technology,2,ML Engineer (Junior)
+91,86,Medium,High,Medium,Technology,2,Web Developer
+82,74,High,Medium,Low,Technology,4,Backend Developer
+91,85,Low,Medium,High,Technology,2,UI/UX Designer
+89,73,High,Medium,Low,Technology,0,Data Scientist (Junior)
+83,92,High,Medium,Low,Technology,0,Software Engineer
+88,95,High,Medium,Low,Technology,0,Data Scientist (Junior)
+77,90,High,Medium,Low,Technology,2,Backend Developer
+73,77,Medium,Medium,High,Technology,3,Frontend Developer
+79,83,High,High,Low,Technology,0,DevOps Engineer (Junior)
+92,83,High,High,Low,Technology,2,Cloud Engineer (Junior)
+86,93,Medium,High,Medium,Technology,1,Web Developer
+77,95,High,High,Low,Technology,1,Software Engineer
+94,83,High,Medium,Low,Technology,1,Cyber Security Analyst
+73,74,High,Medium,Low,Technology,3,ML Engineer (Junior)
+93,95,High,High,Low,Technology,1,Backend Developer
+81,82,Medium,Medium,Low,Technology,0,Junior Software Engineer
+77,79,High,Medium,Low,Technology,3,Data Scientist (Junior)
+78,84,High,High,Low,Technology,2,DevOps Engineer (Junior)
+88,79,Medium,Medium,Low,Technology,3,QA Engineer
+78,95,Medium,Medium,High,Technology,1,Frontend Developer
+93,81,High,High,Low,Technology,0,DevOps Engineer (Junior)
+89,91,Medium,High,Low,Technology,1,Junior Software Engineer
+70,86,High,High,Low,Technology,2,Cyber Security Analyst
+92,70,Medium,Medium,Low,Technology,1,Data Analyst
+92,94,High,High,Low,Technology,1,ML Engineer (Junior)
+91,73,Medium,Medium,Low,Technology,2,Junior Software Engineer
+71,92,High,High,Low,Technology,1,Cloud Engineer (Junior)
+70,91,High,Medium,Low,Technology,0,Software Engineer
+90,70,High,High,Low,Technology,1,Data Scientist (Junior)
+94,94,High,High,Low,Technology,1,Cloud Engineer (Junior)
+92,78,Medium,High,Medium,Technology,1,Web Developer
+86,86,Medium,Medium,Low,Technology,3,QA Engineer
+88,85,Medium,High,High,Technology,3,Frontend Developer
+91,92,High,High,Low,Technology,1,ML Engineer (Junior)
+81,88,Medium,Medium,Low,Technology,2,QA Engineer
+89,89,Low,High,High,Technology,1,UI/UX Designer
+81,84,Medium,High,Low,Technology,3,Junior Software Engineer
+82,83,Medium,Medium,Low,Technology,0,QA Engineer
+83,72,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+82,86,Low,High,High,Technology,5,UI/UX Designer
+83,77,Low,High,High,Technology,3,UI/UX Designer
+87,84,Medium,High,Low,Technology,1,Junior Software Engineer
+78,78,Medium,High,Medium,Technology,3,Web Developer
+81,75,High,Medium,Low,Technology,0,Software Engineer
+82,81,High,High,Low,Technology,0,Software Engineer
+85,74,High,Medium,Low,Technology,0,Software Engineer
+79,94,Low,High,High,Technology,2,UI/UX Designer
+95,90,High,Medium,Low,Technology,0,Data Scientist (Junior)
+82,91,High,Medium,Low,Technology,1,Software Engineer
+94,92,Medium,Medium,Low,Technology,2,Data Analyst
+80,77,Low,High,High,Technology,3,UI/UX Designer
+93,75,High,High,Low,Technology,1,Backend Developer
+83,92,High,High,Low,Technology,0,DevOps Engineer (Junior)
+89,75,Medium,High,High,Technology,0,Frontend Developer
+82,94,High,High,Low,Technology,0,Cloud Engineer (Junior)
+73,94,High,High,Low,Technology,0,ML Engineer (Junior)
+86,78,Medium,Medium,Low,Technology,1,Junior Software Engineer
+87,85,High,High,Low,Technology,0,Data Scientist (Junior)
+83,73,High,High,Low,Technology,3,Data Scientist (Junior)
+75,84,High,Medium,Low,Technology,0,Backend Developer
+89,85,Medium,High,High,Technology,0,Frontend Developer
+87,74,Medium,Medium,Low,Technology,2,Junior Software Engineer
+73,77,Medium,High,High,Technology,0,Frontend Developer
+81,72,Medium,High,Medium,Technology,0,Web Developer
+74,89,Medium,High,Low,Technology,1,Data Analyst
+83,77,High,High,Low,Technology,0,Software Engineer
+95,74,Medium,High,Medium,Technology,2,Web Developer
+86,82,High,Medium,Low,Technology,5,DevOps Engineer (Junior)
+70,79,High,Medium,Low,Technology,0,Software Engineer
+71,77,High,High,Low,Technology,0,Cloud Engineer (Junior)
+73,76,Medium,Medium,Low,Technology,2,QA Engineer
+70,86,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+70,82,Medium,High,High,Technology,0,Frontend Developer
+70,85,Medium,Medium,Low,Technology,0,QA Engineer
+70,87,High,High,Low,Technology,4,Software Engineer
+77,83,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+88,72,Medium,Medium,Medium,Technology,1,Web Developer
+91,81,High,Medium,Low,Technology,0,Backend Developer
+72,74,High,High,Low,Technology,1,DevOps Engineer (Junior)
+92,78,High,Medium,Low,Technology,1,Backend Developer
+91,85,Low,High,High,Technology,0,UI/UX Designer
+90,78,Low,High,High,Technology,1,UI/UX Designer
+91,70,High,Medium,Low,Technology,1,Backend Developer
+89,86,Medium,High,Low,Technology,1,QA Engineer
+89,75,Medium,High,Low,Technology,2,Junior Software Engineer
+75,95,High,High,Low,Technology,2,Data Scientist (Junior)
+80,80,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+79,93,Medium,High,Low,Technology,4,QA Engineer
+75,76,High,High,Low,Technology,5,Software Engineer
+94,71,Medium,Medium,High,Technology,0,Frontend Developer
+83,85,Medium,Medium,Medium,Technology,3,Web Developer
+82,88,High,Medium,Low,Technology,0,ML Engineer (Junior)
+85,76,Medium,High,Low,Technology,1,Data Analyst
+85,82,High,High,Low,Technology,0,ML Engineer (Junior)
+78,73,High,High,Low,Technology,1,ML Engineer (Junior)
+78,87,High,High,Low,Technology,0,Software Engineer
+88,76,High,High,Low,Technology,1,Cloud Engineer (Junior)
+94,77,Medium,High,Medium,Technology,0,Web Developer
+89,76,Medium,High,Low,Technology,2,Data Analyst
+71,86,Medium,High,Low,Technology,5,QA Engineer
+89,70,Medium,High,High,Technology,2,Frontend Developer
+87,84,Medium,High,Low,Technology,3,QA Engineer
+94,87,Medium,High,Medium,Technology,3,Web Developer
+86,89,Medium,Medium,Low,Technology,0,Junior Software Engineer
+82,93,Medium,Medium,Low,Technology,1,Junior Software Engineer
+86,90,High,High,Low,Technology,0,Backend Developer
+94,75,High,High,Low,Technology,0,ML Engineer (Junior)
+87,71,Medium,High,Low,Technology,1,Data Analyst
+70,95,Low,Medium,High,Technology,0,UI/UX Designer
+94,91,High,Medium,Low,Technology,0,Software Engineer
+86,87,Low,Medium,High,Technology,2,UI/UX Designer
+77,90,Medium,High,Low,Technology,3,Junior Software Engineer
+91,85,High,High,Low,Technology,1,DevOps Engineer (Junior)
+77,71,High,Medium,Low,Technology,1,Data Scientist (Junior)
+90,82,High,High,Low,Technology,1,Software Engineer
+76,77,Medium,Medium,High,Technology,1,Frontend Developer
+73,77,High,Medium,Low,Technology,3,Data Scientist (Junior)
+90,90,Medium,Medium,Low,Technology,0,QA Engineer
+83,88,High,High,Low,Technology,3,Software Engineer
+81,83,Medium,High,Low,Technology,5,Junior Software Engineer
+83,74,High,High,Low,Technology,1,ML Engineer (Junior)
+76,77,High,Medium,Low,Technology,0,Backend Developer
+88,70,Medium,Medium,Low,Technology,1,Data Analyst
+82,71,Medium,Medium,Low,Technology,1,QA Engineer
+86,80,High,High,Low,Technology,2,Backend Developer
+83,75,High,High,Low,Technology,0,Backend Developer
+77,71,Medium,High,High,Technology,0,Frontend Developer
+85,78,High,High,Low,Technology,4,Software Engineer
+79,81,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+79,92,High,High,Low,Technology,1,ML Engineer (Junior)
+81,80,Medium,High,High,Technology,1,Frontend Developer
+84,93,Medium,High,Medium,Technology,1,Web Developer
+74,79,High,High,Low,Technology,2,Cyber Security Analyst
+79,95,Medium,Medium,Medium,Technology,0,Web Developer
+89,91,High,Medium,Low,Technology,1,Data Scientist (Junior)
+82,83,Medium,Medium,Low,Technology,1,Junior Software Engineer
+91,93,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+80,73,Medium,Medium,Low,Technology,3,QA Engineer
+92,90,Medium,Medium,Low,Technology,0,Data Analyst
+88,81,High,High,Low,Technology,3,Software Engineer
+95,88,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+71,95,High,High,Low,Technology,0,Software Engineer
+78,81,Low,Medium,High,Technology,1,UI/UX Designer
+83,77,Medium,High,Low,Technology,1,Data Analyst
+75,79,Medium,Medium,Medium,Technology,2,Web Developer
+76,78,Medium,Medium,Medium,Technology,0,Web Developer
+84,94,Medium,Medium,Low,Technology,0,QA Engineer
+82,88,High,Medium,Low,Technology,2,Software Engineer
+79,71,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+84,85,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+93,83,Medium,Medium,High,Technology,1,Frontend Developer
+87,71,High,Medium,Low,Technology,1,Backend Developer
+90,74,Medium,High,Low,Technology,3,Data Analyst
+74,92,Medium,High,Low,Technology,0,Data Analyst
+84,82,Medium,Medium,Low,Technology,2,QA Engineer
+74,85,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+70,93,Medium,High,Low,Technology,2,Data Analyst
+88,93,High,Medium,Low,Technology,4,Cyber Security Analyst
+80,72,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+83,84,Medium,High,Low,Technology,3,Data Analyst
+88,93,Medium,High,Low,Technology,1,Data Analyst
+92,95,Medium,Medium,Low,Technology,1,QA Engineer
+90,82,High,High,Low,Technology,0,Backend Developer
+94,77,Medium,Medium,High,Technology,1,Frontend Developer
+77,93,Medium,Medium,Medium,Technology,5,Web Developer
+73,72,Medium,High,Low,Technology,5,Junior Software Engineer
+77,74,High,High,Low,Technology,1,Data Scientist (Junior)
+72,70,High,Medium,Low,Technology,0,Software Engineer
+78,70,Medium,Medium,High,Technology,2,Frontend Developer
+92,81,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+95,88,Medium,High,Medium,Technology,1,Web Developer
+75,90,Medium,Medium,Low,Technology,2,Data Analyst
+79,76,Medium,Medium,Low,Technology,3,Junior Software Engineer
+88,86,High,Medium,Low,Technology,5,Backend Developer
+81,87,High,Medium,Low,Technology,1,Backend Developer
+92,89,High,Medium,Low,Technology,0,Backend Developer
+91,81,Medium,High,Low,Technology,2,QA Engineer
+79,88,Low,High,High,Technology,1,UI/UX Designer
+92,70,High,High,Low,Technology,1,Backend Developer
+73,80,Medium,Medium,High,Technology,0,Frontend Developer
+78,71,High,High,Low,Technology,0,Backend Developer
+80,77,High,Medium,Low,Technology,0,Software Engineer
+80,81,Medium,Medium,Low,Technology,0,Junior Software Engineer
+95,85,Low,High,High,Technology,5,UI/UX Designer
+86,89,High,Medium,Low,Technology,0,Backend Developer
+80,70,Medium,High,Low,Technology,0,Data Analyst
+74,87,Medium,Medium,Medium,Technology,1,Web Developer
+89,88,High,High,Low,Technology,2,Data Scientist (Junior)
+73,85,Medium,High,Low,Technology,1,QA Engineer
+77,92,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+84,75,High,High,Low,Technology,5,Software Engineer
+78,71,Medium,High,Low,Technology,1,Junior Software Engineer
+72,78,Medium,High,Low,Technology,1,QA Engineer
+73,71,Low,High,High,Technology,0,UI/UX Designer
+92,91,High,High,Low,Technology,0,ML Engineer (Junior)
+78,72,High,High,Low,Technology,2,Cyber Security Analyst
+89,81,High,High,Low,Technology,1,Data Scientist (Junior)
+90,80,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+95,73,Medium,High,High,Technology,1,Frontend Developer
+94,80,High,High,Low,Technology,1,ML Engineer (Junior)
+87,87,Medium,Medium,Medium,Technology,2,Web Developer
+80,82,Medium,Medium,High,Technology,0,Frontend Developer
+92,78,High,High,Low,Technology,2,Data Scientist (Junior)
+87,77,High,Medium,Low,Technology,1,ML Engineer (Junior)
+79,81,High,Medium,Low,Technology,3,ML Engineer (Junior)
+93,80,Medium,High,Low,Technology,0,Junior Software Engineer
+93,95,Medium,High,Low,Technology,0,Junior Software Engineer
+76,70,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+70,88,High,Medium,Low,Technology,0,ML Engineer (Junior)
+80,82,High,Medium,Low,Technology,0,Backend Developer
+91,72,Medium,Medium,High,Technology,1,Frontend Developer
+95,86,Medium,Medium,Medium,Technology,0,Web Developer
+75,77,High,High,Low,Technology,0,Cyber Security Analyst
+72,91,High,High,Low,Technology,1,ML Engineer (Junior)
+89,89,Medium,Medium,Low,Technology,1,QA Engineer
+85,92,Low,High,High,Technology,0,UI/UX Designer
+87,70,Medium,Medium,Low,Technology,0,Junior Software Engineer
+81,76,High,Medium,Low,Technology,0,Data Scientist (Junior)
+74,78,Medium,High,Low,Technology,5,Junior Software Engineer
+83,90,High,Medium,Low,Technology,3,Software Engineer
+95,88,Medium,Medium,Low,Technology,0,QA Engineer
+78,93,Medium,High,Medium,Technology,1,Web Developer
+70,73,High,Medium,Low,Technology,1,Data Scientist (Junior)
+94,74,Medium,Medium,Medium,Technology,1,Web Developer
+95,83,Medium,High,High,Technology,0,Frontend Developer
+89,75,High,High,Low,Technology,0,DevOps Engineer (Junior)
+72,88,Medium,High,Low,Technology,1,QA Engineer
+73,71,Medium,High,Low,Technology,1,Data Analyst
+78,93,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+80,78,High,Medium,Low,Technology,0,Data Scientist (Junior)
+91,72,High,Medium,Low,Technology,0,Backend Developer
+86,79,Medium,Medium,Medium,Technology,1,Web Developer
+89,80,Medium,Medium,Low,Technology,1,Data Analyst
+78,91,High,Medium,Low,Technology,0,Data Scientist (Junior)
+92,95,Medium,Medium,High,Technology,1,Frontend Developer
+89,87,High,High,Low,Technology,1,ML Engineer (Junior)
+83,95,High,Medium,Low,Technology,2,Data Scientist (Junior)
+87,85,High,High,Low,Technology,0,ML Engineer (Junior)
+89,83,High,High,Low,Technology,3,ML Engineer (Junior)
+74,88,High,Medium,Low,Technology,0,Backend Developer
+91,84,Low,High,High,Technology,0,UI/UX Designer
+73,91,Medium,Medium,High,Technology,1,Frontend Developer
+78,74,Medium,High,Medium,Technology,1,Web Developer
+94,72,High,High,Low,Technology,0,Cyber Security Analyst
+72,72,High,High,Low,Technology,0,ML Engineer (Junior)
+88,94,Medium,Medium,High,Technology,0,Frontend Developer
+81,88,High,High,Low,Technology,1,ML Engineer (Junior)
+82,88,High,Medium,Low,Technology,0,Software Engineer
+89,85,Medium,Medium,Low,Technology,2,Junior Software Engineer
+93,74,High,High,Low,Technology,2,DevOps Engineer (Junior)
+76,88,High,High,Low,Technology,0,Backend Developer
+72,89,Medium,Medium,Low,Technology,0,Data Analyst
+81,81,Low,High,High,Technology,1,UI/UX Designer
+82,89,High,High,Low,Technology,0,Backend Developer
+92,77,High,High,Low,Technology,3,ML Engineer (Junior)
+81,78,High,Medium,Low,Technology,2,Backend Developer
+94,73,Medium,Medium,Low,Technology,0,QA Engineer
+92,86,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+79,82,High,Medium,Low,Technology,2,ML Engineer (Junior)
+74,82,Low,High,High,Technology,1,UI/UX Designer
+78,77,High,High,Low,Technology,0,DevOps Engineer (Junior)
+74,92,Medium,Medium,Low,Technology,4,QA Engineer
+91,70,Medium,Medium,Low,Technology,1,Junior Software Engineer
+83,77,Medium,High,High,Technology,0,Frontend Developer
+94,73,Medium,Medium,High,Technology,2,Frontend Developer
+70,84,Medium,High,Low,Technology,0,Junior Software Engineer
+77,90,High,Medium,Low,Technology,2,Backend Developer
+86,87,High,High,Low,Technology,4,Backend Developer
+90,70,Medium,High,High,Technology,2,Frontend Developer
+73,84,Medium,High,High,Technology,0,Frontend Developer
+79,82,Low,High,High,Technology,1,UI/UX Designer
+70,86,High,Medium,Low,Technology,3,ML Engineer (Junior)
+82,72,Medium,Medium,High,Technology,1,Frontend Developer
+71,89,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+95,72,Low,Medium,High,Technology,1,UI/UX Designer
+85,88,High,Medium,Low,Technology,1,Backend Developer
+76,76,Medium,High,Low,Technology,0,Data Analyst
+84,90,Low,Medium,High,Technology,1,UI/UX Designer
+83,70,High,High,Low,Technology,1,Backend Developer
+94,87,High,Medium,Low,Technology,0,ML Engineer (Junior)
+88,70,Medium,High,Medium,Technology,3,Web Developer
+76,71,High,High,Low,Technology,1,Cyber Security Analyst
+81,89,Medium,Medium,Low,Technology,1,Junior Software Engineer
+70,75,Low,High,High,Technology,3,UI/UX Designer
+90,75,Medium,High,Low,Technology,1,Junior Software Engineer
+91,70,High,Medium,Low,Technology,3,Cyber Security Analyst
+94,83,Medium,High,Low,Technology,0,Junior Software Engineer
+81,82,High,Medium,Low,Technology,3,ML Engineer (Junior)
+85,86,High,High,Low,Technology,1,Cloud Engineer (Junior)
+91,89,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+82,74,High,High,Low,Technology,3,Cloud Engineer (Junior)
+88,77,High,Medium,Low,Technology,1,Data Scientist (Junior)
+94,93,Medium,High,High,Technology,3,Frontend Developer
+85,76,Medium,Medium,Low,Technology,0,Data Analyst
+88,80,Medium,Medium,High,Technology,1,Frontend Developer
+77,77,High,High,Low,Technology,2,Software Engineer
+70,74,High,Medium,Low,Technology,1,Software Engineer
+75,84,Medium,High,High,Technology,0,Frontend Developer
+85,81,Low,Medium,High,Technology,2,UI/UX Designer
+85,89,Medium,Medium,High,Technology,1,Frontend Developer
+83,74,High,High,Low,Technology,0,Cyber Security Analyst
+80,78,High,Medium,Low,Technology,5,Cloud Engineer (Junior)
+90,94,High,High,Low,Technology,1,Data Scientist (Junior)
+84,95,Medium,High,Low,Technology,3,QA Engineer
+73,91,Medium,High,Medium,Technology,2,Web Developer
+80,92,High,High,Low,Technology,0,Data Scientist (Junior)
+89,86,High,High,Low,Technology,0,Software Engineer
+72,88,High,Medium,Low,Technology,2,Cyber Security Analyst
+86,72,Medium,High,Medium,Technology,0,Web Developer
+93,70,Low,High,High,Technology,0,UI/UX Designer
+84,89,Medium,Medium,Low,Technology,0,Junior Software Engineer
+93,84,High,Medium,Low,Technology,0,Software Engineer
+87,85,High,High,Low,Technology,0,Software Engineer
+78,80,High,High,Low,Technology,2,Cyber Security Analyst
+86,74,Low,Medium,High,Technology,1,UI/UX Designer
+86,78,Medium,Medium,Medium,Technology,2,Web Developer
+81,88,Medium,High,Low,Technology,0,QA Engineer
+83,90,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+70,93,High,Medium,Low,Technology,3,Software Engineer
+70,80,High,Medium,Low,Technology,2,Cyber Security Analyst
+94,77,High,Medium,Low,Technology,0,Backend Developer
+94,77,Medium,Medium,Low,Technology,1,Data Analyst
+84,81,High,Medium,Low,Technology,3,Cloud Engineer (Junior)
+81,76,High,Medium,Low,Technology,1,Backend Developer
+95,85,Medium,Medium,Low,Technology,0,Junior Software Engineer
+72,91,Medium,Medium,Low,Technology,5,QA Engineer
+87,85,High,High,Low,Technology,0,DevOps Engineer (Junior)
+78,94,Medium,Medium,Low,Technology,1,Data Analyst
+87,74,High,High,Low,Technology,1,Cloud Engineer (Junior)
+90,83,High,High,Low,Technology,0,Software Engineer
+70,71,Medium,Medium,Medium,Technology,0,Web Developer
+85,76,Medium,Medium,High,Technology,1,Frontend Developer
+88,85,High,Medium,Low,Technology,1,Data Scientist (Junior)
+88,94,High,High,Low,Technology,0,Backend Developer
+85,90,High,High,Low,Technology,0,Data Scientist (Junior)
+76,91,High,Medium,Low,Technology,2,Software Engineer
+80,85,High,Medium,Low,Technology,1,Software Engineer
+80,90,Medium,Medium,Low,Technology,3,Junior Software Engineer
+78,84,Medium,High,Medium,Technology,1,Web Developer
+95,83,Medium,High,Low,Technology,2,Junior Software Engineer
+86,87,High,High,Low,Technology,0,Backend Developer
+70,82,High,Medium,Low,Technology,3,Backend Developer
+88,77,Medium,Medium,Low,Technology,1,QA Engineer
+74,88,Medium,High,Medium,Technology,3,Web Developer
+79,84,Medium,Medium,High,Technology,3,Frontend Developer
+81,73,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+80,77,High,High,Low,Technology,0,Cyber Security Analyst
+83,74,High,Medium,Low,Technology,1,Backend Developer
+89,70,High,High,Low,Technology,0,ML Engineer (Junior)
+85,82,High,Medium,Low,Technology,2,Data Scientist (Junior)
+77,71,High,High,Low,Technology,0,Cyber Security Analyst
+74,91,High,High,Low,Technology,0,Cyber Security Analyst
+88,87,Medium,Medium,Medium,Technology,2,Web Developer
+93,89,Medium,Medium,Medium,Technology,2,Web Developer
+86,85,Medium,High,High,Technology,2,Frontend Developer
+74,87,Medium,High,High,Technology,1,Frontend Developer
+72,82,High,Medium,Low,Technology,1,Software Engineer
+70,80,Low,High,High,Technology,1,UI/UX Designer
+72,78,High,Medium,Low,Technology,3,Backend Developer
+81,71,Low,Medium,High,Technology,0,UI/UX Designer
+74,73,Medium,High,Low,Technology,0,QA Engineer
+95,91,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+95,89,High,Medium,Low,Technology,3,Backend Developer
+79,95,High,High,Low,Technology,0,Cyber Security Analyst
+70,90,Medium,High,Low,Technology,3,Junior Software Engineer
+71,71,Medium,Medium,High,Technology,0,Frontend Developer
+84,77,Medium,High,Medium,Technology,4,Web Developer
+95,94,Medium,High,Low,Technology,1,Data Analyst
+93,81,High,High,Low,Technology,0,DevOps Engineer (Junior)
+82,92,High,High,Low,Technology,1,ML Engineer (Junior)
+71,81,High,High,Low,Technology,1,Cyber Security Analyst
+74,75,High,Medium,Low,Technology,0,Backend Developer
+92,94,High,Medium,Low,Technology,0,Data Scientist (Junior)
+79,85,Medium,Medium,Low,Technology,1,QA Engineer
+88,92,High,High,Low,Technology,0,Data Scientist (Junior)
+87,77,High,High,Low,Technology,1,Backend Developer
+85,75,Medium,High,Low,Technology,0,Data Analyst
+71,85,High,Medium,Low,Technology,3,Cyber Security Analyst
+70,75,High,High,Low,Technology,0,Backend Developer
+92,84,High,Medium,Low,Technology,0,Data Scientist (Junior)
+88,84,High,High,Low,Technology,3,DevOps Engineer (Junior)
+89,77,Medium,Medium,Low,Technology,2,Data Analyst
+76,70,Medium,Medium,High,Technology,0,Frontend Developer
+80,71,High,Medium,Low,Technology,0,Data Scientist (Junior)
+85,72,Medium,High,Low,Technology,4,Junior Software Engineer
+72,82,High,High,Low,Technology,2,Cyber Security Analyst
+75,75,High,High,Low,Technology,2,ML Engineer (Junior)
+93,70,High,Medium,Low,Technology,1,Software Engineer
+87,78,Medium,High,Low,Technology,1,Data Analyst
+72,76,High,Medium,Low,Technology,1,Data Scientist (Junior)
+85,84,Medium,High,High,Technology,0,Frontend Developer
+73,70,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+83,82,High,Medium,Low,Technology,1,Data Scientist (Junior)
+95,88,High,High,Low,Technology,1,ML Engineer (Junior)
+79,76,High,Medium,Low,Technology,0,Software Engineer
+90,86,Medium,High,High,Technology,1,Frontend Developer
+77,93,Medium,High,High,Technology,0,Frontend Developer
+73,73,High,High,Low,Technology,0,Backend Developer
+73,78,High,Medium,Low,Technology,1,Data Scientist (Junior)
+95,71,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+90,73,Medium,Medium,Low,Technology,0,QA Engineer
+76,72,Medium,Medium,Medium,Technology,0,Web Developer
+81,79,High,High,Low,Technology,1,Backend Developer
+83,82,Medium,Medium,High,Technology,1,Frontend Developer
+73,83,Low,High,High,Technology,0,UI/UX Designer
+77,72,Medium,High,High,Technology,0,Frontend Developer
+83,95,Medium,Medium,Medium,Technology,0,Web Developer
+77,73,High,Medium,Low,Technology,1,Data Scientist (Junior)
+77,84,Medium,Medium,Low,Technology,0,Data Analyst
+87,75,Medium,High,Low,Technology,1,Data Analyst
+84,82,Medium,Medium,Low,Technology,3,Data Analyst
+79,84,High,Medium,Low,Technology,1,Software Engineer
+95,75,High,High,Low,Technology,0,Cyber Security Analyst
+94,82,Low,Medium,High,Technology,0,UI/UX Designer
+91,83,High,Medium,Low,Technology,0,Cyber Security Analyst
+95,76,Medium,Medium,High,Technology,0,Frontend Developer
+95,79,Medium,High,Low,Technology,1,QA Engineer
+90,77,Medium,Medium,Medium,Technology,0,Web Developer
+95,93,Medium,High,Low,Technology,2,QA Engineer
+83,80,Medium,High,Low,Technology,0,Data Analyst
+71,89,High,High,Low,Technology,0,Data Scientist (Junior)
+79,90,High,High,Low,Technology,0,ML Engineer (Junior)
+94,80,High,Medium,Low,Technology,1,Cyber Security Analyst
+88,84,High,Medium,Low,Technology,1,Software Engineer
+87,81,Medium,Medium,Low,Technology,1,QA Engineer
+79,73,High,High,Low,Technology,5,ML Engineer (Junior)
+90,73,Low,High,High,Technology,0,UI/UX Designer
+95,95,Medium,Medium,Low,Technology,0,Data Analyst
+74,78,High,Medium,Low,Technology,2,Cloud Engineer (Junior)
+94,86,High,High,Low,Technology,0,Backend Developer
+89,89,High,Medium,Low,Technology,1,Cyber Security Analyst
+93,76,High,Medium,Low,Technology,0,Software Engineer
+73,71,Medium,Medium,High,Technology,1,Frontend Developer
+90,74,High,High,Low,Technology,0,ML Engineer (Junior)
+77,73,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+77,72,Medium,High,High,Technology,3,Frontend Developer
+84,70,Low,Medium,High,Technology,1,UI/UX Designer
+86,93,High,Medium,Low,Technology,0,ML Engineer (Junior)
+71,90,Medium,Medium,Low,Technology,0,QA Engineer
+90,85,High,Medium,Low,Technology,0,Software Engineer
+86,75,High,High,Low,Technology,1,Backend Developer
+89,95,High,High,Low,Technology,0,Data Scientist (Junior)
+88,84,High,High,Low,Technology,4,Backend Developer
+88,75,Medium,High,Low,Technology,1,Junior Software Engineer
+78,80,Low,High,High,Technology,5,UI/UX Designer
+83,70,Medium,Medium,Low,Technology,1,Junior Software Engineer
+78,70,High,High,Low,Technology,1,Data Scientist (Junior)
+94,74,Medium,High,Medium,Technology,1,Web Developer
+95,94,Medium,Medium,High,Technology,1,Frontend Developer
+84,93,Medium,High,Medium,Technology,1,Web Developer
+90,74,High,Medium,Low,Technology,1,ML Engineer (Junior)
+85,73,High,High,Low,Technology,1,Software Engineer
+94,86,High,Medium,Low,Technology,0,Data Scientist (Junior)
+74,70,Medium,High,Low,Technology,0,Data Analyst
+78,80,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+94,89,Low,Medium,High,Technology,3,UI/UX Designer
+87,75,High,High,Low,Technology,4,Cyber Security Analyst
+77,79,Medium,Medium,Low,Technology,0,Junior Software Engineer
+75,72,High,Medium,Low,Technology,0,DevOps Engineer (Junior)
+82,80,High,High,Low,Technology,1,Cyber Security Analyst
+73,95,High,Medium,Low,Technology,1,ML Engineer (Junior)
+95,78,Medium,High,Low,Technology,1,Junior Software Engineer
+79,95,Medium,Medium,Low,Technology,0,Data Analyst
+81,72,Medium,High,High,Technology,0,Frontend Developer
+90,92,High,Medium,Low,Technology,1,Backend Developer
+74,93,High,High,Low,Technology,0,Cloud Engineer (Junior)
+92,81,Medium,High,Medium,Technology,0,Web Developer
+86,75,High,Medium,Low,Technology,1,Backend Developer
+70,81,High,High,Low,Technology,1,DevOps Engineer (Junior)
+74,78,High,High,Low,Technology,2,ML Engineer (Junior)
+92,86,Medium,Medium,Low,Technology,1,Data Analyst
+87,89,High,High,Low,Technology,1,Data Scientist (Junior)
+92,73,High,Medium,Low,Technology,1,Data Scientist (Junior)
+76,77,Medium,Medium,Medium,Technology,0,Web Developer
+95,75,High,Medium,Low,Technology,3,Software Engineer
+94,70,Low,High,High,Technology,2,UI/UX Designer
+70,81,Medium,High,Low,Technology,2,QA Engineer
+73,92,Medium,High,Low,Technology,0,Junior Software Engineer
+87,75,High,High,Low,Technology,1,Software Engineer
+88,89,Low,Medium,High,Technology,2,UI/UX Designer
+80,84,High,High,Low,Technology,1,Cyber Security Analyst
+80,89,High,Medium,Low,Technology,0,ML Engineer (Junior)
+89,94,High,Medium,Low,Technology,3,Cyber Security Analyst
+71,93,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+81,76,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+78,90,High,High,Low,Technology,0,Cyber Security Analyst
+90,79,Medium,High,Low,Technology,1,Data Analyst
+93,87,High,Medium,Low,Technology,3,Cyber Security Analyst
+89,84,High,High,Low,Technology,2,Cyber Security Analyst
+88,88,High,Medium,Low,Technology,0,Backend Developer
+84,76,High,High,Low,Technology,2,Cloud Engineer (Junior)
+86,84,Medium,High,Low,Technology,3,Junior Software Engineer
+91,95,High,High,Low,Technology,1,Cyber Security Analyst
+75,83,Medium,Medium,Low,Technology,1,QA Engineer
+71,89,High,Medium,Low,Technology,2,DevOps Engineer (Junior)
+79,82,Medium,High,Low,Technology,0,Junior Software Engineer
+83,76,Low,High,High,Technology,0,UI/UX Designer
+94,92,High,Medium,Low,Technology,3,Backend Developer
+82,76,High,High,Low,Technology,0,Data Scientist (Junior)
+92,78,High,Medium,Low,Technology,0,ML Engineer (Junior)
+83,77,High,Medium,Low,Technology,2,Software Engineer
+70,90,High,High,Low,Technology,1,Cyber Security Analyst
+84,75,Medium,High,High,Technology,3,Frontend Developer
+73,74,Medium,High,Low,Technology,1,QA Engineer
+88,79,Medium,High,Low,Technology,0,Data Analyst
+77,80,High,High,Low,Technology,1,Backend Developer
+83,80,Medium,High,High,Technology,0,Frontend Developer
+83,85,Medium,High,Medium,Technology,4,Web Developer
+95,87,High,High,Low,Technology,1,Cloud Engineer (Junior)
+76,78,Medium,High,Low,Technology,0,Data Analyst
+73,91,Low,Medium,High,Technology,1,UI/UX Designer
+72,72,Medium,High,High,Technology,1,Frontend Developer
+88,79,High,High,Low,Technology,0,ML Engineer (Junior)
+82,95,High,Medium,Low,Technology,0,ML Engineer (Junior)
+85,85,Medium,Medium,Low,Technology,2,QA Engineer
+88,79,Medium,High,Medium,Technology,0,Web Developer
+87,83,Medium,High,Medium,Technology,3,Web Developer
+80,80,Medium,Medium,Low,Technology,1,Data Analyst
+93,77,High,High,Low,Technology,0,Cyber Security Analyst
+91,70,High,High,Low,Technology,2,ML Engineer (Junior)
+71,80,High,High,Low,Technology,0,Cyber Security Analyst
+89,93,Medium,Medium,Low,Technology,0,Junior Software Engineer
+84,84,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+87,80,High,Medium,Low,Technology,0,Software Engineer
+83,88,High,High,Low,Technology,1,ML Engineer (Junior)
+92,89,High,Medium,Low,Technology,1,ML Engineer (Junior)
+83,78,High,Medium,Low,Technology,1,Data Scientist (Junior)
+77,83,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+81,72,Medium,High,Medium,Technology,0,Web Developer
+83,91,High,High,Low,Technology,1,Cyber Security Analyst
+82,87,Medium,High,High,Technology,1,Frontend Developer
+93,80,Medium,High,Low,Technology,1,Junior Software Engineer
+91,86,High,Medium,Low,Technology,1,Backend Developer
+84,78,High,High,Low,Technology,0,Cloud Engineer (Junior)
+89,76,High,High,Low,Technology,1,Backend Developer
+85,93,High,High,Low,Technology,0,Data Scientist (Junior)
+80,77,Low,Medium,High,Technology,0,UI/UX Designer
+94,76,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+93,94,High,High,Low,Technology,0,Software Engineer
+82,94,High,Medium,Low,Technology,1,Software Engineer
+73,93,High,High,Low,Technology,2,Cloud Engineer (Junior)
+95,80,Medium,High,High,Technology,0,Frontend Developer
+75,90,High,High,Low,Technology,0,Software Engineer
+76,92,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+81,92,High,High,Low,Technology,0,DevOps Engineer (Junior)
+71,75,High,High,Low,Technology,0,Cloud Engineer (Junior)
+89,84,Low,High,High,Technology,1,UI/UX Designer
+81,76,Medium,High,Low,Technology,5,Junior Software Engineer
+91,82,High,High,Low,Technology,1,DevOps Engineer (Junior)
+76,72,High,High,Low,Technology,2,Backend Developer
+90,75,High,Medium,Low,Technology,4,Backend Developer
+95,73,Low,High,High,Technology,3,UI/UX Designer
+83,77,High,Medium,Low,Technology,5,ML Engineer (Junior)
+74,82,High,Medium,Low,Technology,2,Software Engineer
+85,91,Medium,High,Low,Technology,3,QA Engineer
+71,88,High,High,Low,Technology,1,Software Engineer
+91,75,High,Medium,Low,Technology,3,Cyber Security Analyst
+77,84,Medium,Medium,Low,Technology,1,Junior Software Engineer
+90,76,High,Medium,Low,Technology,1,DevOps Engineer (Junior)
+72,93,Medium,Medium,Medium,Technology,0,Web Developer
+79,79,High,Medium,Low,Technology,0,ML Engineer (Junior)
+82,93,Medium,Medium,Low,Technology,3,Data Analyst
+82,74,High,Medium,Low,Technology,0,Data Scientist (Junior)
+92,77,High,High,Low,Technology,5,Backend Developer
+76,77,High,High,Low,Technology,2,Cloud Engineer (Junior)
+89,94,Medium,High,Low,Technology,1,QA Engineer
+76,79,High,Medium,Low,Technology,1,Cloud Engineer (Junior)
+78,70,High,High,Low,Technology,0,Data Scientist (Junior)
+91,86,Medium,High,High,Technology,2,Frontend Developer
+82,85,Medium,Medium,High,Technology,1,Frontend Developer
+91,91,Medium,Medium,High,Technology,0,Frontend Developer
+92,75,High,High,Low,Technology,0,Cyber Security Analyst
+78,87,Medium,Medium,Medium,Technology,3,Web Developer
+93,95,Medium,High,Medium,Technology,3,Web Developer
+71,93,Medium,High,Low,Technology,0,Junior Software Engineer
+75,70,High,Medium,Low,Technology,2,Backend Developer
+75,80,Low,High,High,Technology,0,UI/UX Designer
+84,89,Medium,Medium,Low,Technology,2,Junior Software Engineer
+78,71,Medium,High,Low,Technology,0,QA Engineer
+82,80,High,High,Low,Technology,0,Backend Developer
+83,79,High,High,Low,Technology,1,ML Engineer (Junior)
+76,86,High,High,Low,Technology,0,Data Scientist (Junior)
+70,76,Medium,Medium,Medium,Technology,2,Web Developer
+72,70,Medium,High,Low,Technology,1,Data Analyst
+84,93,High,Medium,Low,Technology,3,Cyber Security Analyst
+83,75,Medium,Medium,Low,Technology,0,QA Engineer
+79,88,Medium,High,Medium,Technology,0,Web Developer
+93,82,Medium,High,Low,Technology,1,QA Engineer
+78,85,High,Medium,Low,Technology,0,Cloud Engineer (Junior)
+78,87,Medium,Medium,Low,Technology,1,Data Analyst

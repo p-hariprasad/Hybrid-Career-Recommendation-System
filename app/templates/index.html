@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Career Recommendation System</title>
+</head>
+<body>
+    <h2>Hybrid Career Recommendation System</h2>
+
+    <form method="POST" enctype="multipart/form-data">
+        <label>Math Score:</label>
+        <input type="number" name="math_score" ><br><br>
+
+        <label>Science Score:</label>
+        <input type="number" name="science_score" ><br><br>
+
+        <label>Programming Skill:</label>
+        <select name="programming_skill">
+            <option>Low</option>
+            <option>Medium</option>
+            <option>High</option>
+        </select><br><br>
+
+        <label>Communication Skill:</label>
+        <select name="communication_skill">
+            <option>Low</option>
+            <option>Medium</option>
+            <option>High</option>
+        </select><br><br>
+
+        <label>Creativity:</label>
+        <select name="creativity">
+            <option>Low</option>
+            <option>Medium</option>
+            <option>High</option>
+        </select><br><br>
+
+        <label>Interest Area:</label>
+        <select name="interest_area">
+            <option>Technology</option>
+            <option>Business</option>
+            <option>Engineering</option>
+            <option>Government</option>
+            <option>Arts</option>
+        </select><br><br>
+
+        <label>Experience (Years):</label>
+        <input type="number" name="experience_years" required><br><br>
+        <h3>OR Upload Resume</h3>
+        <input type="file" name="resume" accept=".pdf,.docx">
+
+
+        <button type="submit">Get Recommendation</button>
+    </form>
+</body>
+</html>
