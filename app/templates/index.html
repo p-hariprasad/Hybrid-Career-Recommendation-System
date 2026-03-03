@@ -1,9 +1,101 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #4e73df, #1cc88a);
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    }
+
+    .container {
+        background: #ffffff;
+        padding: 40px;
+        width: 450px;
+        border-radius: 12px;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    }
+
+    h2 {
+        text-align: center;
+        margin-bottom: 25px;
+        color: #333;
+    }
+
+    label {
+        font-weight: 600;
+        display: block;
+        margin-bottom: 5px;
+        color: #444;
+    }
+
+    input[type="number"],
+    select,
+    input[type="file"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 18px;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+        font-size: 14px;
+        transition: 0.3s;
+    }
+
+    input[type="number"]:focus,
+    select:focus,
+    input[type="file"]:focus {
+        border-color: #4e73df;
+        outline: none;
+        box-shadow: 0 0 5px rgba(78, 115, 223, 0.3);
+    }
+
+    h3 {
+        text-align: center;
+        margin: 20px 0 10px;
+        color: #666;
+        font-weight: 500;
+    }
+
+    button {
+        width: 100%;
+        padding: 12px;
+        background: #4e73df;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+
+    button:hover {
+        background: #2e59d9;
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    button:active {
+        transform: scale(0.98);
+    }
+
+    @media (max-width: 500px) {
+        .container {
+            width: 90%;
+            padding: 25px;
+        }
+    }
+</style>
     <title>Career Recommendation System</title>
+
 </head>
 <body>
+    <div class="container">
     <h2>Hybrid Career Recommendation System</h2>
 
     <form method="POST" enctype="multipart/form-data">
@@ -44,12 +136,13 @@
         </select><br><br>
 
         <label>Experience (Years):</label>
-        <input type="number" name="experience_years" required><br><br>
+        <input type="number" name="experience_years" ><br><br>
         <h3>OR Upload Resume</h3>
         <input type="file" name="resume" accept=".pdf,.docx">
 
 
         <button type="submit">Get Recommendation</button>
     </form>
+</div>
 </body>
 </html>
